@@ -1,0 +1,6 @@
+file,rows,columns,missing_cells,fully_duplicate_rows,empty_string_cells,duplicate_key_rows,key_columns
+CADORS_Occurrence_Information.csv,406693,23,1448023,0,0,0,cadorsnumber
+CADORS_Occurrence_Category.csv,561530,3,0,0,0,0,"cadorsnumber, occurrence_category_etxt"
+CADORS_Occurrence_Event_Information.csv,196535,3,0,0,0,0,"cadorsnumber, event_name_enm"
+CADORS_Aircraft_Information.csv,331248,31,2134003,0,0,0,"cadorsnumber, aircraftnumber"
+CADORS_Aircraft_Event_Information.csv,432077,5,0,0,0,0,"cadorsnumber, aircraftnumber, event_seq_num"

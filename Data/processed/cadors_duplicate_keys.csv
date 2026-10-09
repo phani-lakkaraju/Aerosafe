@@ -1,0 +1,6 @@
+file,duplicate_key_rows,key_columns
+CADORS_Occurrence_Information.csv,0,cadorsnumber
+CADORS_Occurrence_Category.csv,0,"cadorsnumber, occurrence_category_etxt"
+CADORS_Occurrence_Event_Information.csv,0,"cadorsnumber, event_name_enm"
+CADORS_Aircraft_Information.csv,0,"cadorsnumber, aircraftnumber"
+CADORS_Aircraft_Event_Information.csv,0,"cadorsnumber, aircraftnumber, event_seq_num"
