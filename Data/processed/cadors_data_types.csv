@@ -1,5 +1,5 @@
 file,column,data_type
-CADORS_Occurrence_Information.csv,cadorsnumber,str
+CADORS_Occurrence_Information.csv,cadorsnumber,string
 CADORS_Occurrence_Information.csv,occurrencetypedescriptione,str
 CADORS_Occurrence_Information.csv,occurrencetypedescriptionf,str
 CADORS_Occurrence_Information.csv,occurrencedate,str
@@ -22,13 +22,13 @@ CADORS_Occurrence_Information.csv,aornumber,str
 CADORS_Occurrence_Information.csv,occurrence_class_type_elbl,str
 CADORS_Occurrence_Information.csv,occurrence_class_type_flbl,str
 CADORS_Occurrence_Information.csv,tsboccurrencenumber,str
-CADORS_Occurrence_Category.csv,cadorsnumber,str
+CADORS_Occurrence_Category.csv,cadorsnumber,string
 CADORS_Occurrence_Category.csv,occurrence_category_etxt,str
 CADORS_Occurrence_Category.csv,occurrence_category_ftxt,str
-CADORS_Occurrence_Event_Information.csv,cadorsnumber,str
+CADORS_Occurrence_Event_Information.csv,cadorsnumber,string
 CADORS_Occurrence_Event_Information.csv,event_name_enm,str
 CADORS_Occurrence_Event_Information.csv,event_name_fnm,str
-CADORS_Aircraft_Information.csv,cadorsnumber,str
+CADORS_Aircraft_Information.csv,cadorsnumber,string
 CADORS_Aircraft_Information.csv,aircraftnumber,float64
 CADORS_Aircraft_Information.csv,aircraftregistration,str
 CADORS_Aircraft_Information.csv,foreignaircraftregistration,str
@@ -59,7 +59,7 @@ CADORS_Aircraft_Information.csv,operatortypedescriptionf,str
 CADORS_Aircraft_Information.csv,operation_sector_elbl,str
 CADORS_Aircraft_Information.csv,operation_sector_flbl,str
 CADORS_Aircraft_Information.csv,owner,str
-CADORS_Aircraft_Event_Information.csv,cadorsnumber,str
+CADORS_Aircraft_Event_Information.csv,cadorsnumber,string
 CADORS_Aircraft_Event_Information.csv,aircraftnumber,int64
 CADORS_Aircraft_Event_Information.csv,event_seq_num,int64
 CADORS_Aircraft_Event_Information.csv,event_name_enm,str

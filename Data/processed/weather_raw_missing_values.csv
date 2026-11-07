@@ -1,0 +1,131 @@
+airport_code,column,missing
+CYEG,time,0
+CYEG,weather_code (wmo code),0
+CYEG,temperature_2m_max (°C),0
+CYEG,temperature_2m_min (°C),0
+CYEG,precipitation_sum (mm),0
+CYEG,rain_sum (mm),0
+CYEG,snowfall_sum (cm),0
+CYEG,wind_speed_10m_max (km/h),0
+CYEG,wind_gusts_10m_max (km/h),0
+CYEG,wind_direction_10m_dominant (°),0
+CYHZ,time,0
+CYHZ,weather_code (wmo code),0
+CYHZ,temperature_2m_max (°C),0
+CYHZ,temperature_2m_min (°C),0
+CYHZ,precipitation_sum (mm),0
+CYHZ,rain_sum (mm),0
+CYHZ,snowfall_sum (cm),0
+CYHZ,wind_speed_10m_max (km/h),0
+CYHZ,wind_gusts_10m_max (km/h),0
+CYHZ,wind_direction_10m_dominant (°),0
+CYOW,time,0
+CYOW,weather_code (wmo code),0
+CYOW,temperature_2m_max (°C),0
+CYOW,temperature_2m_min (°C),0
+CYOW,precipitation_sum (mm),0
+CYOW,rain_sum (mm),0
+CYOW,snowfall_sum (cm),0
+CYOW,wind_speed_10m_max (km/h),0
+CYOW,wind_gusts_10m_max (km/h),0
+CYOW,wind_direction_10m_dominant (°),0
+CYQB,time,0
+CYQB,weather_code (wmo code),0
+CYQB,temperature_2m_max (°C),0
+CYQB,temperature_2m_min (°C),0
+CYQB,precipitation_sum (mm),0
+CYQB,rain_sum (mm),0
+CYQB,snowfall_sum (cm),0
+CYQB,wind_speed_10m_max (km/h),0
+CYQB,wind_gusts_10m_max (km/h),0
+CYQB,wind_direction_10m_dominant (°),0
+CYUL,time,0
+CYUL,weather_code (wmo code),0
+CYUL,temperature_2m_max (°C),0
+CYUL,temperature_2m_min (°C),0
+CYUL,precipitation_sum (mm),0
+CYUL,rain_sum (mm),0
+CYUL,snowfall_sum (cm),0
+CYUL,wind_speed_10m_max (km/h),0
+CYUL,wind_gusts_10m_max (km/h),0
+CYUL,wind_direction_10m_dominant (°),0
+CYVR,time,0
+CYVR,weather_code (wmo code),0
+CYVR,temperature_2m_max (°C),0
+CYVR,temperature_2m_min (°C),0
+CYVR,precipitation_sum (mm),0
+CYVR,rain_sum (mm),0
+CYVR,snowfall_sum (cm),0
+CYVR,wind_speed_10m_max (km/h),0
+CYVR,wind_gusts_10m_max (km/h),0
+CYVR,wind_direction_10m_dominant (°),0
+CYWG,time,0
+CYWG,weather_code (wmo code),0
+CYWG,temperature_2m_max (°C),0
+CYWG,temperature_2m_min (°C),0
+CYWG,precipitation_sum (mm),0
+CYWG,rain_sum (mm),0
+CYWG,snowfall_sum (cm),0
+CYWG,wind_speed_10m_max (km/h),0
+CYWG,wind_gusts_10m_max (km/h),0
+CYWG,wind_direction_10m_dominant (°),0
+CYXY,time,0
+CYXY,weather_code (wmo code),0
+CYXY,temperature_2m_max (°C),0
+CYXY,temperature_2m_min (°C),0
+CYXY,precipitation_sum (mm),0
+CYXY,rain_sum (mm),0
+CYXY,snowfall_sum (cm),0
+CYXY,wind_speed_10m_max (km/h),0
+CYXY,wind_gusts_10m_max (km/h),0
+CYXY,wind_direction_10m_dominant (°),0
+CYYC,time,0
+CYYC,weather_code (wmo code),0
+CYYC,temperature_2m_max (°C),0
+CYYC,temperature_2m_min (°C),0
+CYYC,precipitation_sum (mm),0
+CYYC,rain_sum (mm),0
+CYYC,snowfall_sum (cm),0
+CYYC,wind_speed_10m_max (km/h),0
+CYYC,wind_gusts_10m_max (km/h),0
+CYYC,wind_direction_10m_dominant (°),0
+CYYJ,time,0
+CYYJ,weather_code (wmo code),0
+CYYJ,temperature_2m_max (°C),0
+CYYJ,temperature_2m_min (°C),0
+CYYJ,precipitation_sum (mm),0
+CYYJ,rain_sum (mm),0
+CYYJ,snowfall_sum (cm),0
+CYYJ,wind_speed_10m_max (km/h),0
+CYYJ,wind_gusts_10m_max (km/h),0
+CYYJ,wind_direction_10m_dominant (°),0
+CYYT,time,0
+CYYT,weather_code (wmo code),0
+CYYT,temperature_2m_max (°C),0
+CYYT,temperature_2m_min (°C),0
+CYYT,precipitation_sum (mm),0
+CYYT,rain_sum (mm),0
+CYYT,snowfall_sum (cm),0
+CYYT,wind_speed_10m_max (km/h),0
+CYYT,wind_gusts_10m_max (km/h),0
+CYYT,wind_direction_10m_dominant (°),0
+CYYZ,time,0
+CYYZ,weather_code (wmo code),0
+CYYZ,temperature_2m_max (°C),0
+CYYZ,temperature_2m_min (°C),0
+CYYZ,precipitation_sum (mm),0
+CYYZ,rain_sum (mm),0
+CYYZ,snowfall_sum (cm),0
+CYYZ,wind_speed_10m_max (km/h),0
+CYYZ,wind_gusts_10m_max (km/h),0
+CYYZ,wind_direction_10m_dominant (°),0
+CYZF,time,0
+CYZF,weather_code (wmo code),0
+CYZF,temperature_2m_max (°C),0
+CYZF,temperature_2m_min (°C),0
+CYZF,precipitation_sum (mm),0
+CYZF,rain_sum (mm),0
+CYZF,snowfall_sum (cm),0
+CYZF,wind_speed_10m_max (km/h),0
+CYZF,wind_gusts_10m_max (km/h),0
+CYZF,wind_direction_10m_dominant (°),0

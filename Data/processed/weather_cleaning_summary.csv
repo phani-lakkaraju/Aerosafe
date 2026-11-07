@@ -1,0 +1,14 @@
+airport_code,city,source_file,source_rows,cleaned_rows,start_date,end_date,invalid_numeric_cells,invalid_range_cells,missing_measurement_cells,status
+CYEG,Edmonton,weather_CYEG_Edmonton_2010-2025.csv,5844,2922,2018-01-01,2025-12-31,0,0,0,CLEANED
+CYHZ,Halifax,weather_CYHZ_Halifax_2010-2025.csv,5844,2922,2018-01-01,2025-12-31,0,0,0,CLEANED
+CYOW,Ottawa,weather_CYOW_Ottawa_2010-2025.csv,5844,2922,2018-01-01,2025-12-31,0,0,0,CLEANED
+CYQB,QuebecCity,weather_CYQB_QuebecCity_2010-2025.csv,2922,2922,2018-01-01,2025-12-31,0,0,0,CLEANED
+CYUL,Montreal,weather_CYUL_Montreal_2010-2025.csv,5844,2922,2018-01-01,2025-12-31,0,0,0,CLEANED
+CYVR,Vancouver,weather_CYVR_Vancouver_2010-2025.csv,5844,2922,2018-01-01,2025-12-31,0,0,0,CLEANED
+CYWG,Winnipeg,weather_CYWG_Winnipeg_2010-2025.csv,2922,2922,2018-01-01,2025-12-31,0,0,0,CLEANED
+CYXY,Whitehorse,weather_CYXY_Whitehorse_2010-2025.csv,2922,2922,2018-01-01,2025-12-31,0,0,0,CLEANED
+CYYC,Calgary,weather_CYYC_Calgary_2010-2025.csv,5844,2922,2018-01-01,2025-12-31,0,0,0,CLEANED
+CYYJ,Victoria,weather_CYYJ_Victoria_2010-2025.csv,2922,2922,2018-01-01,2025-12-31,0,0,0,CLEANED
+CYYT,StJohns,weather_CYYT_StJohns_2010-2025.csv,2922,2922,2018-01-01,2025-12-31,0,0,0,CLEANED
+CYYZ,Toronto,weather_CYYZ_Toronto_2010-2025.csv,5844,2922,2018-01-01,2025-12-31,0,0,0,CLEANED
+CYZF,Yellowknife,weather_CYZF_Yellowknife_2010-2025.csv,2922,2922,2018-01-01,2025-12-31,0,0,0,CLEANED

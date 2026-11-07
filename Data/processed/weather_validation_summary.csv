@@ -1,0 +1,14 @@
+airport_code,city,rows,start_date,end_date,out_of_range,duplicate_dates,missing_dates,wrong_airport,matches_combined,missing_measurements,passed
+CYEG,Edmonton,2922,2018-01-01,2025-12-31,0,0,0,0,True,0,True
+CYHZ,Halifax,2922,2018-01-01,2025-12-31,0,0,0,0,True,0,True
+CYOW,Ottawa,2922,2018-01-01,2025-12-31,0,0,0,0,True,0,True
+CYQB,QuebecCity,2922,2018-01-01,2025-12-31,0,0,0,0,True,0,True
+CYUL,Montreal,2922,2018-01-01,2025-12-31,0,0,0,0,True,0,True
+CYVR,Vancouver,2922,2018-01-01,2025-12-31,0,0,0,0,True,0,True
+CYWG,Winnipeg,2922,2018-01-01,2025-12-31,0,0,0,0,True,0,True
+CYXY,Whitehorse,2922,2018-01-01,2025-12-31,0,0,0,0,True,0,True
+CYYC,Calgary,2922,2018-01-01,2025-12-31,0,0,0,0,True,0,True
+CYYJ,Victoria,2922,2018-01-01,2025-12-31,0,0,0,0,True,0,True
+CYYT,StJohns,2922,2018-01-01,2025-12-31,0,0,0,0,True,0,True
+CYYZ,Toronto,2922,2018-01-01,2025-12-31,0,0,0,0,True,0,True
+CYZF,Yellowknife,2922,2018-01-01,2025-12-31,0,0,0,0,True,0,True

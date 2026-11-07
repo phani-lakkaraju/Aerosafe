@@ -1,0 +1,14 @@
+airport_code,source_file,latitude,longitude,elevation,utc_offset_seconds,timezone,timezone_abbreviation
+CYEG,weather_CYEG_Edmonton_2010-2025.csv,53.321613,-113.61217,722.0,-14400,America/New_York,GMT-4
+CYHZ,weather_CYHZ_Halifax_2010-2025.csv,44.88576,-63.52942,133.0,-18000,America/New_York,GMT-5
+CYOW,weather_CYOW_Ottawa_2010-2025.csv,45.307556,-75.65625,112.0,-18000,America/New_York,GMT-5
+CYQB,weather_CYQB_QuebecCity_2010-2025.csv,46.75,-71.5,71.0,-18000,America/Toronto,GMT-5
+CYUL,weather_CYUL_Montreal_2010-2025.csv,45.448154,-73.777405,27.0,-14400,America/New_York,GMT-4
+CYVR,weather_CYVR_Vancouver_2010-2025.csv,49.244286,-123.133575,11.0,-14400,America/New_York,GMT-4
+CYWG,weather_CYWG_Winnipeg_2010-2025.csv,50.0,-97.25,236.0,-18000,America/Winnipeg,GMT-5
+CYXY,weather_CYXY_Whitehorse_2010-2025.csv,60.75,-135.0,773.0,-25200,America/Whitehorse,GMT-7
+CYYC,weather_CYYC_Calgary_2010-2025.csv,51.072056,-114.03227,1081.0,-14400,America/New_York,GMT-4
+CYYJ,weather_CYYJ_Victoria_2010-2025.csv,48.5,-123.5,0.0,-25200,America/Vancouver,GMT-7
+CYYT,weather_CYYT_StJohns_2010-2025.csv,47.5,-52.75,136.0,-12600,America/St_Johns,GMT-3:30
+CYYZ,weather_CYYZ_Toronto_2010-2025.csv,43.690685,-79.547485,187.0,-14400,America/New_York,GMT-4
+CYZF,weather_CYZF_Yellowknife_2010-2025.csv,62.5,-114.5,204.0,-21600,America/Edmonton,GMT-6
