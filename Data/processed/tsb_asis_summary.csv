@@ -1,0 +1,11 @@
+metric,value
+asis_rows_total,54818.0
+asis_rows_2018_2025,8479.0
+asis_unique_occurrences_2018_2025,7514.0
+asis_duplicate_rows_removed,965.0
+asis_with_summary_text,7514.0
+cadors_canada_or_blank_country,148883.0
+cadors_with_tsb_number,6482.0
+cadors_linked_to_asis_summary,6055.0
+cadors_tsb_number_not_in_asis,427.0
+share_of_cadors_linked_pct,4.1
