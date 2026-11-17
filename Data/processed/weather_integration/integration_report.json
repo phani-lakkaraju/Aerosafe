@@ -1,0 +1,38 @@
+{
+    "stage": "07_weather_integration",
+    "date_range": "2018-01-01 to 2025-12-31",
+    "cadors_occurrences": 148883,
+    "occurrences_after_join": 148883,
+    "weather_airports": 13,
+    "weather_days": 37986,
+    "matched_occurrences": 29203,
+    "unmatched_occurrences": 119680,
+    "missing_occurrence_times": 36,
+    "timezone_airports_to_review": [
+        "CYEG",
+        "CYHZ",
+        "CYOW",
+        "CYUL",
+        "CYVR",
+        "CYYC",
+        "CYYZ",
+        "CYZF"
+    ],
+    "zero_occurrence_airport_days": 22037,
+    "status_counts": {
+        "no_weather_coverage": 88914,
+        "missing_airport": 30764,
+        "matched": 29203,
+        "missing_weather_day": 2
+    },
+    "weather_thresholds": {
+        "rain_mm": 0.1,
+        "snowfall_cm": 0.1,
+        "strong_wind_kmh": 40.0
+    },
+    "validation": {
+        "occurrence_count_unchanged": true,
+        "no_duplicate_occurrence_ids": true,
+        "daily_counts_reconciled": true
+    }
+}

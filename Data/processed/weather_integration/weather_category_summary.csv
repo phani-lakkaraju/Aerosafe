@@ -1,0 +1,5 @@
+weather_category,total_days,total_occurrences,average_daily_occurrences
+none,17623,12536,0.711343131135448
+rain,13643,11720,0.8590485963497765
+snow,6229,4474,0.7182533311928079
+strong_wind,491,473,0.9633401221995926
