@@ -9,16 +9,12 @@
     "unmatched_occurrences": 119680,
     "missing_occurrence_times": 36,
     "timezone_airports_to_review": [
-        "CYEG",
-        "CYHZ",
         "CYOW",
         "CYUL",
-        "CYVR",
-        "CYYC",
         "CYYZ",
         "CYZF"
     ],
-    "zero_occurrence_airport_days": 22037,
+    "zero_occurrence_airport_days": 22034,
     "status_counts": {
         "no_weather_coverage": 88914,
         "missing_airport": 30764,

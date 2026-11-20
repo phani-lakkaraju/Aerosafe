@@ -1,0 +1,918 @@
+airport_id,airport_name,province,latitude,longitude,iso_region,match_source,reference_matched,ambiguous_reference,has_coordinates,occurrence_count
+CYYZ,Toronto Pearson International Airport,Ontario,43.675935,-79.629421,CA-ON,icao_code,True,False,True,6646
+CYVR,Vancouver International Airport,British Columbia,49.193901,-123.183998,CA-BC,icao_code,True,False,True,4800
+CYUL,Montreal / Pierre Elliott Trudeau International Airport,Quebec,45.467837,-73.742294,CA-QC,icao_code,True,False,True,3806
+CYYC,Calgary International Airport,Alberta,51.118822,-114.009933,CA-AB,icao_code,True,False,True,3404
+CYLW,Kelowna International Airport,British Columbia,49.9561,-119.377998,CA-BC,icao_code,True,False,True,2191
+CYHZ,Halifax / Stanfield International Airport,Nova Scotia,44.8807983398,-63.5085983276,CA-NS,icao_code,True,False,True,1863
+CYEG,Edmonton International Airport,Alberta,53.3097,-113.580002,CA-AB,icao_code,True,False,True,1804
+CYIK,Ivujivik Airport,Quebec,62.417301,-77.925301,CA-QC,icao_code,True,False,True,1677
+CYNJ,Langley Airport,British Columbia,49.1008,-122.630997,CA-BC,icao_code,True,False,True,1546
+CYBW,Calgary / Springbank Airport,Alberta,51.103982,-114.369378,CA-AB,ident,True,False,True,1534
+CYWG,Winnipeg / James Armstrong Richardson International Airport,Manitoba,49.9099998474,-97.2398986816,CA-MB,icao_code,True,False,True,1504
+CYXX,Abbotsford International Airport,British Columbia,49.025299,-122.361,CA-BC,icao_code,True,False,True,1439
+CYKO,Akulivik Airport,Quebec,60.8186,-78.148598,CA-QC,icao_code,True,False,True,1386
+CYHI,Ulukhaktok Holman Airport,Northwest Territories,70.762802,-117.806,CA-NT,icao_code,True,False,True,1371
+CYYJ,Victoria International Airport,British Columbia,48.647201,-123.427792,CA-BC,icao_code,True,False,True,1370
+CYCY,Clyde River Airport,Nunavut,70.486099,-68.516701,CA-NU,icao_code,True,False,True,1343
+CYHA,Quaqtaq Airport,Quebec,61.046398,-69.617798,CA-QC,icao_code,True,False,True,1331
+CYQT,Thunder Bay International Airport,Ontario,48.371899,-89.323898,CA-ON,icao_code,True,False,True,1325
+CYPK,Pitt Meadows Regional Airport,British Columbia,49.21488,-122.709294,CA-BC,icao_code,True,False,True,1307
+CYHU,Montréal / Saint-Hubert Metropolitan Airport,Quebec,45.517502,-73.416901,CA-QC,icao_code,True,False,True,1208
+CYAS,Kangirsuk Airport,Quebec,60.027199,-69.999199,CA-QC,icao_code,True,False,True,1193
+CYGT,Igloolik Airport,Nunavut,69.3647,-81.816101,CA-NU,icao_code,True,False,True,1157
+CYRA,Rae Lakes Airport,Northwest Territories,64.116096,-117.309998,CA-NT,icao_code,True,False,True,1145
+CYYH,Taloyoak Airport,Nunavut,69.5467,-93.576698,CA-NU,icao_code,True,False,True,1117
+CYXU,London International Airport,Ontario,43.032845,-81.149003,CA-ON,icao_code,True,False,True,1108
+CYMX,Montreal Mirabel International Airport,Quebec,45.679501,-74.038696,CA-QC,icao_code,True,False,True,1087
+CYKQ,Waskaganish Airport,Quebec,51.473301,-78.758301,CA-QC,icao_code,True,False,True,1086
+CYLU,Kangiqsualujjuaq (Georges River) Airport,Quebec,58.711399,-65.992798,CA-QC,icao_code,True,False,True,1075
+CYLA,Aupaluk Airport,Quebec,59.2967,-69.599701,CA-QC,icao_code,True,False,True,1071
+CYBB,Kugaaruk Airport,Nunavut,68.535711,-89.805508,CA-NU,icao_code,True,False,True,1008
+CYZG,Salluit Airport,Quebec,62.179401,-75.667198,CA-QC,icao_code,True,False,True,1007
+CYFB,Iqaluit Airport,Nunavut,63.756402,-68.555801,CA-NU,icao_code,True,False,True,978
+CYKG,Kangiqsujuaq (Wakeham Bay) Airport,Quebec,61.5886,-71.929398,CA-QC,icao_code,True,False,True,964
+CYZF,Yellowknife International Airport,Northwest Territories,62.462799,-114.440002,CA-NT,icao_code,True,False,True,954
+CYXE,Saskatoon John G. Diefenbaker International Airport,Saskatchewan,52.170723,-106.700793,CA-SK,icao_code,True,False,True,952
+CYSK,Sanikiluaq Airport,Nunavut,56.536891,-79.250221,CA-NU,icao_code,True,False,True,946
+CYTQ,Tasiujaq Airport,Quebec,58.667801,-69.955803,CA-QC,icao_code,True,False,True,944
+CYNC,Wemindji Airport,Quebec,53.010601,-78.8311,CA-QC,icao_code,True,False,True,943
+CYQB,Quebec Jean Lesage International Airport,Quebec,46.7911,-71.393303,CA-QC,icao_code,True,False,True,942
+CYMU,Umiujaq Airport,Quebec,56.536098,-76.518303,CA-QC,icao_code,True,False,True,935
+CYKF,Region of Waterloo International Airport,Ontario,43.4608,-80.378601,CA-ON,icao_code,True,False,True,919
+CYSY,Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport,Northwest Territories,71.993896,-125.242996,CA-NT,icao_code,True,False,True,888
+CYQR,Regina International Airport,Saskatchewan,50.431938,-104.660906,CA-SK,icao_code,True,False,True,872
+CYQM,Greater Moncton Roméo LeBlanc International Airport,New Brunswick,46.113189,-64.67719,CA-NB,icao_code,True,False,True,863
+CYOO,Oshawa Executive Airport,Ontario,43.922798,-78.894997,CA-ON,icao_code,True,False,True,845
+CYAB,Arctic Bay Airport,Nunavut,73.006101,-85.04616,CA-NU,icao_code,True,False,True,836
+CYTZ,Billy Bishop Toronto City Airport,Ontario,43.627852,-79.39553,CA-ON,icao_code,True,False,True,817
+CYOW,Ottawa Macdonald-Cartier International Airport,Ontario,45.322498,-75.669197,CA-ON,icao_code,True,False,True,805
+CYND,Ottawa / Gatineau Airport,Quebec,45.521702,-75.563599,CA-QC,icao_code,True,False,True,795
+CYHK,Gjoa Haven Airport,Nunavut,68.635597,-95.849701,CA-NU,icao_code,True,False,True,793
+CYYT,St. John's International Airport,Newfoundland and Labrador,47.618599,-52.7519,CA-NL,icao_code,True,False,True,782
+CYPC,Paulatuk (Nora Aliqatchialuk Ruben) Airport,Northwest Territories,69.360838,-124.07547,CA-NT,icao_code,True,False,True,782
+CYXN,Whale Cove Airport,Nunavut,62.240002,-92.598099,CA-NU,icao_code,True,False,True,779
+CZEM,Eastmain River Airport,Quebec,52.226398,-78.522499,CA-QC,icao_code,True,False,True,774
+CYQF,Red Deer Regional Airport,Alberta,52.182201,-113.893997,CA-AB,icao_code,True,False,True,764
+CYCS,Chesterfield Inlet Airport,Nunavut,63.346901,-90.731102,CA-NU,icao_code,True,False,True,759
+CYFC,Fredericton International Airport,New Brunswick,45.868697,-66.529891,CA-NB,icao_code,True,False,True,739
+CYUT,Naujaat Airport,Nunavut,66.521024,-86.225166,CA-NU,icao_code,True,False,True,687
+CYOC,Old Crow Airport,Yukon,67.570602,-139.839005,CA-YT,icao_code,True,False,True,682
+CYKD,Aklavik/Freddie Carmichael Airport,Northwest Territories,68.223297,-135.00599,CA-NT,icao_code,True,False,True,681
+CYMM,Fort McMurray International Airport,Alberta,56.653301,-111.222,CA-AB,icao_code,True,False,True,679
+CZBB,Boundary Bay Airport,British Columbia,49.074338,-123.006877,CA-BC,icao_code,True,False,True,667
+CYHM,John C. Munro Hamilton International Airport,Ontario,43.171308,-79.929416,CA-ON,icao_code,True,False,True,659
+CYCD,Nanaimo Airport,British Columbia,49.05497,-123.869863,CA-BC,icao_code,True,False,True,628
+CYZV,Sept-Îles Airport,Quebec,50.22330093383789,-66.2656021118164,CA-QC,icao_code,True,False,True,596
+CYGZ,Grise Fiord Airport,Nunavut,76.425823,-82.908583,CA-NU,icao_code,True,False,True,579
+CYXL,Sioux Lookout Airport,Ontario,50.11389923095703,-91.9052963256836,CA-ON,icao_code,True,False,True,563
+CYVM,Qikiqtarjuaq Airport,Nunavut,67.54656,-64.03141,CA-NU,icao_code,True,False,True,559
+CYTH,Thompson Airport,Manitoba,55.80110168457031,-97.86419677734376,CA-MB,icao_code,True,False,True,556
+CYXJ,Fort St John / North Peace Regional Airport,British Columbia,56.238098,-120.739998,CA-BC,icao_code,True,False,True,550
+CYLK,Lutselk'e Airport,Northwest Territories,62.417823,-110.682793,CA-NT,icao_code,True,False,True,532
+CYXY,Whitehorse / Erik Nielsen International Airport,Yukon,60.708533,-135.065705,CA-YT,icao_code,True,False,True,525
+CYQG,Windsor International Airport,Ontario,42.2756,-82.955597,CA-ON,icao_code,True,False,True,515
+CYQU,Grande Prairie Airport,Alberta,55.1796989441,-118.885002136,CA-AB,icao_code,True,False,True,495
+CYXP,Pangnirtung Airport,Nunavut,66.144878,-65.713606,CA-NU,icao_code,True,False,True,473
+CZVL,Edmonton / Villeneuve Airport,Alberta,53.6675,-113.853996,CA-AB,icao_code,True,False,True,461
+CYKA,Kamloops John Moose Fulton Field Regional Airport,British Columbia,50.703038,-120.448641,CA-BC,icao_code,True,False,True,452
+CYWY,Wrigley Airport,Northwest Territories,63.20940017700195,-123.43699645996094,CA-NT,icao_code,True,False,True,446
+CYXS,Prince George (International) Airport,British Columbia,53.884311,-122.666554,CA-BC,icao_code,True,False,True,435
+CYLC,Kimmirut Airport,Nunavut,62.848253,-69.877853,CA-NU,icao_code,True,False,True,434
+CYYG,Charlottetown Airport,Prince Edward Island,46.288911,-63.125174,CA-PE,icao_code,True,False,True,425
+CYXT,Northwest Regional Airport Terrace-Kitimat,British Columbia,54.468498,-128.576009,CA-BC,icao_code,True,False,True,415
+CYSB,Sudbury Airport,Ontario,46.625,-80.79889678955078,CA-ON,icao_code,True,False,True,415
+CYYF,Penticton Regional Airport,British Columbia,49.4631,-119.601997,CA-BC,icao_code,True,False,True,410
+CYXH,Medicine Hat Regional Airport,Alberta,50.018902,-110.721001,CA-AB,icao_code,True,False,True,405
+CZFM,Fort Mcpherson Airport,Northwest Territories,67.406993,-134.860182,CA-NT,icao_code,True,False,True,400
+CZFN,Tulita Airport,Northwest Territories,64.909496,-125.570297,CA-NT,icao_code,True,False,True,399
+CYUY,Rouyn Noranda Airport,Quebec,48.20610046386719,-78.83560180664062,CA-QC,icao_code,True,False,True,399
+CYJN,St Jean Airport,Quebec,45.29439926147461,-73.28109741210938,CA-QC,icao_code,True,False,True,387
+CYGK,Kingston Norman Rogers Airport,Ontario,44.2253,-76.596901,CA-ON,icao_code,True,False,True,385
+CYXK,Rimouski Airport,Quebec,48.477644,-68.496323,CA-QC,icao_code,True,False,True,382
+CYZS,Coral Harbour Airport,Nunavut,64.1932983398,-83.3593978882,CA-NU,icao_code,True,False,True,381
+CYQL,Lethbridge County Airport,Alberta,49.6302986145,-112.800003052,CA-AB,icao_code,True,False,True,379
+CYRT,Rankin Inlet Airport,Nunavut,62.8114013672,-92.1157989502,CA-NU,icao_code,True,False,True,377
+CYSJ,Saint John Airport,New Brunswick,45.31610107421875,-65.89029693603516,CA-NB,icao_code,True,False,True,376
+CYGL,La Grande Rivière Airport,Quebec,53.625301361083984,-77.7042007446289,CA-QC,icao_code,True,False,True,366
+CYTS,Timmins/Victor M. Power,Ontario,48.5696983337,-81.376701355,CA-ON,icao_code,True,False,True,365
+CYHC,Vancouver Harbour Water Aerodrome,British Columbia,49.290739,-123.118541,CA-BC,icao_code,True,False,True,364
+CYFS,Fort Simpson Airport,Northwest Territories,61.76020050048828,-121.23699951171876,CA-NT,icao_code,True,False,True,360
+CYVO,Val-d'Or Airport,Quebec,48.0532989502,-77.7827987671,CA-QC,icao_code,True,False,True,360
+CYVP,Kuujjuaq Airport,Quebec,58.096099853515625,-68.4269027709961,CA-QC,icao_code,True,False,True,353
+CYBR,Brandon Municipal Airport,Manitoba,49.91,-99.951897,CA-MB,icao_code,True,False,True,348
+CYRC,Chicoutimi/Saint-Honoré Aerodrome,Quebec,48.520963,-71.05256,CA-QC,ident,True,False,True,342
+CYAV,Winnipeg / St. Andrews Airport,Manitoba,50.0564,-97.032501,CA-MB,icao_code,True,False,True,341
+CYYY,Mont Joli Airport,Quebec,48.60860061645508,-68.20809936523438,CA-QC,icao_code,True,False,True,337
+CYGR,Îles-de-la-Madeleine Airport,Quebec,47.425242,-61.778612,CA-QC,icao_code,True,False,True,322
+CYJF,Fort Liard Airport,Northwest Territories,60.2358016968,-123.46900177,CA-NT,icao_code,True,False,True,309
+CYTE,Cape Dorset Airport,Nunavut,64.230003,-76.526703,CA-NU,icao_code,True,False,True,305
+CYAM,Sault Ste Marie Airport,Ontario,46.483216,-84.508467,CA-ON,icao_code,True,False,True,301
+CYGW,Kuujjuarapik Airport,Quebec,55.28189849853516,-77.76529693603516,CA-QC,icao_code,True,False,True,300
+CYVC,La Ronge Airport,Saskatchewan,55.1514015198,-105.262001038,CA-SK,icao_code,True,False,True,297
+CYRQ,Trois-Rivières Airport,Quebec,46.35279846191406,-72.67939758300781,CA-QC,icao_code,True,False,True,295
+CYIV,Island Lake Airport,Manitoba,53.857200622558594,-94.65360260009766,CA-MB,icao_code,True,False,True,273
+CYOJ,High Level Airport,Alberta,58.62139892578125,-117.16500091552734,CA-AB,icao_code,True,False,True,270
+CYPA,Prince Albert Glass Field,Saskatchewan,53.2141990662,-105.672996521,CA-SK,icao_code,True,False,True,270
+CYQX,Gander International Airport,Newfoundland and Labrador,48.936258,-54.567719,CA-NL,icao_code,True,False,True,269
+CYQA,Muskoka Airport,Ontario,44.975376,-79.306546,CA-ON,icao_code,True,False,True,256
+CYBL,Campbell River Airport,British Columbia,49.950802,-125.271004,CA-BC,icao_code,True,False,True,248
+CYSM,Fort Smith Airport,Northwest Territories,60.020302,-111.961998,CA-NT,icao_code,True,False,True,247
+CYQY,Sydney / J.A. Douglas McCurdy Airport,Nova Scotia,46.161072,-60.049759,CA-NS,icao_code,True,False,True,240
+CYZT,Port Hardy Airport,British Columbia,50.68059921264648,-127.36699676513672,CA-BC,icao_code,True,False,True,240
+CYCB,Cambridge Bay Airport,Nunavut,69.1081008911,-105.138000488,CA-NU,icao_code,True,False,True,237
+CYYQ,Churchill Airport,Manitoba,58.739200592041016,-94.06500244140624,CA-MB,icao_code,True,False,True,235
+CYXC,Cranbrook/Canadian Rockies International Airport,British Columbia,49.610802,-115.781998,CA-BC,icao_code,True,False,True,232
+CYPL,Pickle Lake Airport,Ontario,51.4463996887207,-90.21420288085938,CA-ON,icao_code,True,False,True,226
+CYAZ,Tofino / Long Beach Airport,British Columbia,49.079833,-125.775583,CA-BC,icao_code,True,False,True,218
+CYCG,Castlegar/West Kootenay Regional Airport,British Columbia,49.296398,-117.632004,CA-BC,icao_code,True,False,True,216
+CYFR,Fort Resolution Airport,Northwest Territories,61.1808013916,-113.690002441,CA-NT,icao_code,True,False,True,215
+CYWK,Wabush Airport,Newfoundland and Labrador,52.92190170288086,-66.8644027709961,CA-NL,icao_code,True,False,True,212
+CYRL,Red Lake Airport,Ontario,51.06689834594727,-93.79309844970705,CA-ON,icao_code,True,False,True,206
+CYIO,Pond Inlet Airport,Nunavut,72.689494,-77.968941,CA-NU,icao_code,True,False,True,191
+CYRJ,Roberval Airport,Quebec,48.519665,-72.265735,CA-QC,icao_code,True,False,True,190
+CYDF,Deer Lake Airport,Newfoundland and Labrador,49.208159,-57.396147,CA-NL,icao_code,True,False,True,186
+CYWH,Victoria Harbour Seaplane Base,British Columbia,48.423782,-123.37198,CA-BC,icao_code,True,False,True,184
+CYSN,Niagara District Airport,Ontario,43.191598,-79.171686,CA-ON,icao_code,True,False,True,184
+CYEV,Inuvik Mike Zubko Airport,Northwest Territories,68.30419921880001,-133.483001709,CA-NT,icao_code,True,False,True,179
+CYBK,Baker Lake Airport,Nunavut,64.29889678960001,-96.077796936,CA-NU,icao_code,True,False,True,176
+CYMO,Moosonee Airport,Ontario,51.29109954833984,-80.60780334472656,CA-ON,icao_code,True,False,True,169
+CYGV,Havre-Saint-Pierre Airport,Quebec,50.281898,-63.611401,CA-QC,icao_code,True,False,True,167
+CYMT,Chapais Airport,Quebec,49.77190017700195,-74.5280990600586,CA-QC,icao_code,True,False,True,164
+CYCO,Kugluktuk Airport,Nunavut,67.816408,-115.14307,CA-NU,icao_code,True,False,True,162
+CYYE,Fort Nelson Airport,British Columbia,58.8363990784,-122.597000122,CA-BC,icao_code,True,False,True,160
+CYBC,Baie-Comeau Airport,Quebec,49.1325,-68.204399,CA-QC,icao_code,True,False,True,156
+CYQK,Kenora Airport,Ontario,49.78829956054688,-94.36309814453124,CA-ON,icao_code,True,False,True,155
+CYYB,North Bay Jack Garland Airport,Ontario,46.363602,-79.422798,CA-ON,icao_code,True,False,True,154
+CYLL,Lloydminster Airport,Alberta,53.3092,-110.072998,CA-AB,icao_code,True,False,True,154
+CYDA,Dawson City Airport,Yukon,64.04309844970703,-139.1280059814453,CA-YT,icao_code,True,False,True,152
+CYST,St. Theresa Point Airport,Manitoba,53.845261,-94.851966,CA-MB,icao_code,True,False,True,151
+CYQV,Yorkton Municipal Airport,Saskatchewan,51.264702,-102.461998,CA-SK,icao_code,True,False,True,149
+CYWL,Williams Lake Airport,British Columbia,52.1831016541,-122.054000854,CA-BC,icao_code,True,False,True,147
+CYHD,Dryden Regional Airport,Ontario,49.831699,-92.744202,CA-ON,icao_code,True,False,True,144
+CYKZ,,,,,,,False,False,False,141
+CYBX,Lourdes-de-Blanc-Sablon Airport,Quebec,51.4436,-57.185299,CA-QC,icao_code,True,False,True,137
+CYGH,Fort Good Hope Airport,Northwest Territories,66.240658,-128.647757,CA-NT,icao_code,True,False,True,134
+CYZU,Whitecourt Airport,Alberta,54.143902,-115.787003,CA-AB,icao_code,True,False,True,129
+CYGP,Michel-Pouliot Gaspé Airport,Quebec,48.774915,-64.481893,CA-QC,icao_code,True,False,True,127
+CYDQ,Dawson Creek Airport,British Columbia,55.741245,-120.183263,CA-BC,icao_code,True,False,True,126
+CYWJ,Déline Airport,Northwest Territories,65.211098,-123.435997,CA-NT,icao_code,True,False,True,121
+CYNA,Natashquan Airport,Quebec,50.190114,-61.78898,CA-QC,icao_code,True,False,True,117
+CYHY,Hay River / Merlyn Carter Airport,Northwest Territories,60.8396987915,-115.782997131,CA-NT,icao_code,True,False,True,117
+CYSF,Stony Rapids Airport,Saskatchewan,59.250301361083984,-105.84100341796876,CA-SK,icao_code,True,False,True,116
+CYDN,Dauphin Barker Airport,Manitoba,51.1008,-100.052002,CA-MB,icao_code,True,False,True,115
+CYNE,Norway House Airport,Manitoba,53.958302,-97.8442,CA-MB,icao_code,True,False,True,113
+CYUB,Tuktoyaktuk / James Gruben Airport,Northwest Territories,69.433296,-133.026001,CA-NT,icao_code,True,False,True,110
+CYPQ,Peterborough Regional Airport,Ontario,44.232251,-78.362053,CA-ON,icao_code,True,False,True,109
+CYVQ,Norman Wells Airport,Northwest Territories,65.28160095214844,-126.7979965209961,CA-NT,icao_code,True,False,True,106
+CYXQ,Beaver Creek Airport,Yukon,62.410301208496094,-140.86700439453125,CA-YT,icao_code,True,False,True,103
+CYZP,Sandspit Airport,British Columbia,53.25429916379999,-131.813995361,CA-BC,icao_code,True,False,True,101
+CYFO,Flin Flon Airport,Manitoba,54.678101,-101.681999,CA-MB,icao_code,True,False,True,96
+CYYD,Smithers Airport,British Columbia,54.82469940185547,-127.18299865722656,CA-BC,icao_code,True,False,True,93
+CYPE,Peace River Airport,Alberta,56.226898,-117.446999,CA-AB,icao_code,True,False,True,90
+CYRB,Resolute Bay Airport,Nunavut,74.7169036865,-94.9693984985,CA-NU,icao_code,True,False,True,90
+CYPG,Portage-la-Prairie / Southport Airport,Manitoba,49.903099,-98.273817,CA-MB,icao_code,True,False,True,88
+CYEK,Arviat Airport,Nunavut,61.0942,-94.070801,CA-NU,icao_code,True,False,True,88
+CYQD,The Pas Airport,Manitoba,53.97140121459961,-101.09100341796876,CA-MB,icao_code,True,False,True,85
+CYVT,Buffalo Narrows Airport,Saskatchewan,55.8418998718,-108.417999268,CA-SK,icao_code,True,False,True,84
+CYYR,Goose Bay Airport,Newfoundland and Labrador,53.3191986084,-60.4258003235,CA-NL,icao_code,True,False,True,80
+CYUX,Hall Beach Airport,Nunavut,68.7761,-81.2425,CA-NU,icao_code,True,False,True,80
+CYQZ,Quesnel Airport,British Columbia,53.026100158691406,-122.51000213623048,CA-BC,icao_code,True,False,True,78
+CYSC,Sherbrooke Airport,Quebec,45.438599,-71.691399,CA-QC,icao_code,True,False,True,77
+CZFA,Faro Airport,Yukon,62.20750045776367,-133.37600708007812,CA-YT,icao_code,True,False,True,76
+CZBA,Burlington Executive Airpark,Ontario,43.441453,-79.850103,CA-ON,icao_code,True,False,True,70
+CYVK,Vernon Regional Airport,British Columbia,50.246163,-119.330963,CA-BC,icao_code,True,False,True,63
+CZBM,Bromont (Roland Désourdy) Airport,Quebec,45.290798,-72.741402,CA-QC,icao_code,True,False,True,63
+CYCC,Cornwall Regional Airport,Ontario,45.092637,-74.567724,CA-ON,icao_code,True,False,True,63
+CYRP,Ottawa / Carp Airport,Ontario,45.3191986084,-76.0222015381,CA-ON,ident,True,False,True,62
+CYDB,Burwash Airport,Yukon,61.371101,-139.041,CA-YT,icao_code,True,False,True,61
+CYPX,Puvirnituq Airport,Quebec,60.050598,-77.286903,CA-QC,icao_code,True,False,True,61
+CJK4,Esterhazy Airport,Saskatchewan,50.642799377441406,-102.0999984741211,CA-SK,ident,True,False,True,55
+CAT4,Qualicum Beach Airport,British Columbia,49.337456,-124.393086,CA-BC,ident,True,False,True,53
+CYVB,Bonaventure Airport,Quebec,48.071098,-65.460297,CA-QC,icao_code,True,False,True,51
+CYIF,St Augustin Airport,Quebec,51.2117,-58.658298,CA-QC,icao_code,True,False,True,51
+CSE4,Lachute Airport,Quebec,45.63940048217773,-74.37059783935547,CA-QC,ident,True,False,True,49
+CEZ3,Edmonton / Cooking Lake Airport,Alberta,53.427502,-113.115997,CA-AB,ident,True,False,True,47
+CSE5,Montmagny Airport,Quebec,47.000834,-70.518293,CA-QC,ident,True,False,True,46
+CNC3,Brampton-Caledon Airport,Ontario,43.7603,-79.875,CA-ON,ident,True,False,True,44
+CYSH,Smiths Falls-Montague (Russ Beach) Airport,Ontario,44.945801,-75.940598,CA-ON,icao_code,True,False,True,44
+CYRI,Rivière-du-Loup Airport,Quebec,47.76440048217773,-69.58470153808594,CA-QC,icao_code,True,False,True,43
+CSB3,St-Mathieu-De-Beloeil Airport,Quebec,45.59000015258789,-73.23860168457031,CA-QC,ident,True,False,True,43
+CSC3,Drummondville Airport,Quebec,45.84529876708984,-72.39469909667969,CA-QC,ident,True,False,True,42
+CYCW,Chilliwack Airport,British Columbia,49.153157,-121.939309,CA-BC,icao_code,True,False,True,42
+CYNM,Matagami Airport,Quebec,49.76169967651367,-77.80280303955078,CA-QC,icao_code,True,False,True,41
+CYZR,Chris Hadfield Airport,Ontario,42.999401,-82.308899,CA-ON,icao_code,True,False,True,39
+CYRO,Ottawa / Rockcliffe Airport,Ontario,45.460496,-75.644001,CA-ON,icao_code,True,False,True,37
+CSU3,Saint-Hyacinthe Aerodrome,Quebec,45.60687,-73.015146,CA-QC,ident,True,False,True,37
+CYBG,Saguenay-Bagotville Airport,Quebec,48.330123,-70.992012,CA-QC,icao_code,True,False,True,36
+CYQQ,Comox Valley International Airport / CFB Comox,British Columbia,49.7108,-124.887001,CA-BC,icao_code,True,False,True,35
+CYPH,Inukjuak Airport,Quebec,58.471901,-78.076897,CA-QC,icao_code,True,False,True,35
+CFX2,Calgary / Okotoks Air Park,Alberta,50.7352981567,-113.934997559,CA-AB,ident,True,False,True,35
+CBX7,Tumbler Ridge Airport,British Columbia,55.025001525879,-120.93499755859,CA-BC,ident,True,False,True,35
+CYQH,Watson Lake Airport,Yukon,60.116839,-128.821993,CA-YT,icao_code,True,False,True,34
+CYTF,Alma Airport,Quebec,48.5089,-71.641899,CA-QC,icao_code,True,False,True,33
+CYFD,Brantford Municipal Airport,Ontario,43.131401,-80.342499,CA-ON,ident,True,False,True,33
+CZGR,Little Grand Rapids Airport,Manitoba,52.045417,-95.46617,CA-MB,icao_code,True,False,True,32
+CEX3,Wetaskiwin Regional Airport,Alberta,52.965000152600005,-113.411003113,CA-AB,ident,True,False,True,31
+CYDO,Dolbeau-Saint-Felicien Airport,Quebec,48.7785,-72.375,CA-QC,icao_code,True,False,True,31
+CBC7,Harbour (Public) Heliport,British Columbia,49.286892,-123.106112,CA-BC,ident,True,False,True,30
+CYZX,CFB Greenwood,Nova Scotia,44.98440170288086,-64.91690063476562,CA-NS,icao_code,True,False,True,29
+CEA3,Olds-Didsbury Airport,Alberta,51.7118988037,-114.107002258,CA-AB,ident,True,False,True,28
+CEN4,High River Airport,Alberta,50.534162,-113.843396,CA-AB,ident,True,False,True,28
+CYEY,Amos/Magny Airport,Quebec,48.563903,-78.249702,CA-QC,icao_code,True,False,True,28
+CZBF,Bathurst Airport,New Brunswick,47.6297,-65.738899,CA-NB,icao_code,True,False,True,27
+CYAY,St. Anthony Airport,Newfoundland and Labrador,51.391909,-56.08321,CA-NL,icao_code,True,False,True,27
+CYBV,Berens River Airport,Manitoba,52.358898,-97.018303,CA-MB,icao_code,True,False,True,26
+CZHP,High Prairie Airport,Alberta,55.3936,-116.474998,CA-AB,icao_code,True,False,True,26
+CNY3,Collingwood Regional Airport,Ontario,44.448273,-80.158911,CA-ON,ident,True,False,True,25
+CNK4,Parry Sound Area Municipal Airport,Ontario,45.2575,-79.829697,CA-ON,ident,True,False,True,24
+CYQW,North Battleford Airport,Saskatchewan,52.769409,-108.243742,CA-SK,icao_code,True,False,True,24
+CKK7,Steinbach (South) Airport,Manitoba,49.493900299072266,-96.69889831542967,CA-MB,ident,True,False,True,24
+CTT5,La Romaine Airport,Quebec,50.259553,-60.674357,CA-QC,ident,True,False,True,24
+CEQ3,Camrose Airport,Alberta,53.04029846191406,-112.81600189208984,CA-AB,ident,True,False,True,23
+CYSG,Saint-Georges Airport,Quebec,46.096401,-70.714699,CA-QC,ident,True,False,True,23
+CNV9,Québec / Neuville Airport,Quebec,46.7214759694,-71.5854978561,CA-QC,ident,True,False,True,22
+CSG3,Joliette Airport,Quebec,46.044464,-73.501539,CA-QC,ident,True,False,True,22
+CYGO,Gods Lake Narrows Airport,Manitoba,54.55768,-94.490061,CA-MB,icao_code,True,False,True,22
+CAH3,Courtenay Airpark,British Columbia,49.679237,-124.98064,CA-BC,ident,True,False,True,22
+CFX6,Vulcan Airport,Alberta,50.40447,-113.285223,CA-AB,ident,True,False,True,22
+CYQS,St Thomas Municipal Airport,Ontario,42.77000045776367,-81.11080169677734,CA-ON,icao_code,True,False,True,21
+CZFG,Pukatawagan Airport,Manitoba,55.749199,-101.265999,CA-MB,icao_code,True,False,True,21
+CNF4,Kawartha Lakes Municipal Airport,Ontario,44.3647,-78.783897,CA-ON,ident,True,False,True,21
+CYGX,Gillam Airport,Manitoba,56.35712,-94.711504,CA-MB,icao_code,True,False,True,21
+CAC8,Nanaimo Harbour Water Aerodrome,British Columbia,49.169813,-123.933845,CA-BC,ident,True,False,True,21
+CZTM,Shamattawa Airport,Manitoba,55.86356,-92.081137,CA-MB,icao_code,True,False,True,21
+CYHF,Hearst René Fontaine Municipal Airport,Ontario,49.71419906616211,-83.68609619140625,CA-ON,icao_code,True,False,True,21
+CYSQ,Atlin Airport,British Columbia,59.57833,-133.668938,CA-BC,icao_code,True,False,True,21
+CYPT,Pelee Island Airport,Ontario,41.778033,-82.674222,CA-ON,icao_code,True,False,True,20
+CYDL,Dease Lake Airport,British Columbia,58.422199,-130.031998,CA-BC,icao_code,True,False,True,20
+CPL6,Parkland Airport,Alberta,53.474102,-113.824282,CA-AB,ident,True,False,True,20
+CYZW,Teslin Airport,Yukon,60.17279815673828,-132.7429962158203,CA-YT,icao_code,True,False,True,19
+CAU4,Vanderhoof Airport,British Columbia,54.051607,-124.010804,CA-BC,ident,True,False,True,19
+CEN9,Yellowknife Seaplane Base,Northwest Territories,62.466702,-114.349998,CA-NT,ident,True,False,True,19
+CYZE,Gore Bay Manitoulin Airport,Ontario,45.8853,-82.567802,CA-ON,icao_code,True,False,True,19
+CYTR,CFB Trenton,Ontario,44.118900299072266,-77.5280990600586,CA-ON,icao_code,True,False,True,18
+CYEM,Manitoulin East Municipal Airport,Ontario,45.842435,-81.857595,CA-ON,icao_code,True,False,True,18
+CSH2,Île-aux-Grues Airport,Quebec,47.072402,-70.533235,CA-QC,ident,True,False,True,18
+CYEN,Estevan Airport,Saskatchewan,49.2103004456,-102.966003418,CA-SK,icao_code,True,False,True,18
+CKA6,Sioux Lookout Seaplane Base,Ontario,50.0919,-91.912498,CA-ON,ident,True,False,True,18
+CYPR,Prince Rupert Airport,British Columbia,54.2860984802,-130.445007324,CA-BC,icao_code,True,False,True,18
+CFG3,Consort Airport,Alberta,52.023788,-110.748762,CA-AB,ident,True,False,True,18
+CNL3,Brockville - Thousand Islands Regional Tackaberry Airport,Ontario,44.6394004822,-75.7502975464,CA-ON,ident,True,False,True,18
+CYPN,Port-Menier Airport,Quebec,49.836399,-64.288597,CA-QC,icao_code,True,False,True,18
+CEE8,Viking Airport,Alberta,53.1089685346,-111.864938736,CA-AB,ident,True,False,True,17
+CYRM,Rocky Mountain House Airport,Alberta,52.4296989441,-114.903999329,CA-AB,icao_code,True,False,True,17
+CYKL,Schefferville Airport,Quebec,54.805301666259766,-66.8052978515625,CA-QC,icao_code,True,False,True,17
+CYBQ,Tadoule Lake Airport,Manitoba,58.706308,-98.511057,CA-MB,icao_code,True,False,True,17
+CNP3,Arnprior Airport,Ontario,45.41360092163086,-76.36579895019531,CA-ON,ident,True,False,True,16
+CYTB,Tillsonburg Airport,Ontario,42.9275,-80.746944,CA-ON,gps_code,True,False,True,16
+CYOD,CFB Cold Lake,Alberta,54.40499877929688,-110.27899932861328,CA-AB,icao_code,True,False,True,16
+CES4,Westlock Airport,Alberta,54.141733,-113.74044,CA-AB,ident,True,False,True,16
+CEG4,Drumheller Municipal Airport,Alberta,51.49639892578125,-112.7490005493164,CA-AB,ident,True,False,True,16
+CJN2,Kamsack Airport,Saskatchewan,51.55970001220703,-101.87899780273438,CA-SK,ident,True,False,True,16
+CYSU,Summerside Airport,Prince Edward Island,46.440601,-63.833599,CA-PE,icao_code,True,False,True,16
+CYLB,Lac La Biche Airport,Alberta,54.7703018188,-112.031997681,CA-AB,icao_code,True,False,True,15
+CYGM,Gimli Industrial Park Airport,Manitoba,50.62810134887695,-97.04329681396484,CA-MB,icao_code,True,False,True,15
+CAJ9,Fort Ware Airport,British Columbia,57.427857,-125.648189,CA-BC,ident,True,False,True,15
+CYGD,Goderich Airport,Ontario,43.7668991089,-81.7106018066,CA-ON,ident,True,False,True,15
+CYTL,Big Trout Lake Airport,Ontario,53.817799,-89.896896,CA-ON,icao_code,True,False,True,15
+CCK3,Grand Falls Airport,New Brunswick,47.075837,-67.68531,CA-NB,ident,True,False,True,15
+CYAH,La Grande-4 Airport,Quebec,53.754699707,-73.6753005981,CA-QC,icao_code,True,False,True,15
+CNV8,Edenvale Aerodrome,Ontario,44.441101,-79.962799,CA-ON,ident,True,False,True,15
+CYCE,Centralia / James T. Field Memorial Aerodrome,Ontario,43.285599,-81.508301,CA-ON,icao_code,True,False,True,14
+CYGQ,Geraldton Greenstone Regional Airport,Ontario,49.77830123901367,-86.93939971923828,CA-ON,icao_code,True,False,True,14
+CYBF,Bonnyville Airport,Alberta,54.304199,-110.744003,CA-AB,icao_code,True,False,True,14
+CZMT,Masset Airport,British Columbia,54.0275,-132.125,CA-BC,icao_code,True,False,True,14
+CTB6,Tête-à-la-Baleine Airport,Quebec,50.67440032958984,-59.38359832763672,CA-QC,ident,True,False,True,14
+CEH3,Ponoka Industrial (Labrie Field) Airport,Alberta,52.651699,-113.606003,CA-AB,ident,True,False,True,14
+CAK3,Delta Heritage Air Park,British Columbia,49.0774,-122.941002,CA-BC,ident,True,False,True,14
+CYMA,Mayo Airport,Yukon,63.61640167236328,-135.8679962158203,CA-YT,icao_code,True,False,True,14
+CJE4,Snow Lake Airport,Manitoba,54.89720153808594,-99.81890106201172,CA-MB,ident,True,False,True,14
+CZWH,Lac Brochet Airport,Manitoba,58.614279,-101.468954,CA-MB,icao_code,True,False,True,14
+CYSE,Squamish Airport,British Columbia,49.7817001343,-123.162002563,CA-BC,icao_code,True,False,True,14
+CYHS,Hanover / Saugeen Municipal Airport,Ontario,44.158298,-81.062798,CA-ON,ident,True,False,True,14
+CJH3,Maidstone Airport,Saskatchewan,53.097922,-109.328815,CA-SK,ident,True,False,True,14
+CYPY,Fort Chipewyan Airport,Alberta,58.7672004699707,-111.11699676513672,CA-AB,icao_code,True,False,True,13
+CYOS,Owen Sound / Billy Bishop Regional Airport,Ontario,44.5903015137,-80.8375015259,CA-ON,icao_code,True,False,True,13
+CPR7,Wingham / Richard W. LeVan Airport,Ontario,43.8675,-81.298599,CA-ON,ident,True,False,True,13
+CYOH,Oxford House Airport,Manitoba,54.9333,-95.2789,CA-MB,icao_code,True,False,True,13
+CYPW,Powell River Airport,British Columbia,49.83420181274414,-124.5,CA-BC,icao_code,True,False,True,13
+CTU5,La Tabatière Airport,Quebec,50.8307991027832,-58.97560119628906,CA-QC,ident,True,False,True,13
+CYRV,Revelstoke Airport,British Columbia,50.962245,-118.184258,CA-BC,icao_code,True,False,True,13
+CYEE,Huronia Airport,Ontario,44.6833000183,-79.9282989502,CA-ON,ident,True,False,True,13
+CYBU,Nipawin Airport,Saskatchewan,53.33250045776367,-104.00800323486328,CA-SK,ident,True,False,True,13
+CYME,Matane Airport,Quebec,48.85689926147461,-67.45330047607422,CA-QC,icao_code,True,False,True,13
+CEV7,Tofield Airport,Alberta,53.3713,-112.696731,CA-AB,ident,True,False,True,12
+CYIB,Atikokan Municipal Airport,Ontario,48.773899,-91.638603,CA-ON,icao_code,True,False,True,12
+CZSJ,Sandy Lake Airport,Ontario,53.06420135498047,-93.34439849853516,CA-ON,icao_code,True,False,True,12
+CSS3,,,,,,,False,False,False,12
+CKD6,Thompson Seaplane Base,Manitoba,55.75,-97.833298,CA-MB,ident,True,False,True,12
+CNE4,Iroquois Falls Airport,Ontario,48.74169921875,-80.79329681396484,CA-ON,ident,True,False,True,12
+CYLS,Barrie-Lake Simcoe Regional Airport,Ontario,44.485056,-79.554663,CA-ON,icao_code,True,False,True,12
+CYLQ,La Tuque Airport,Quebec,47.4096984863,-72.7889022827,CA-QC,icao_code,True,False,True,12
+CFB6,Edmonton / Josephburg Airport,Alberta,53.727998032,-113.086566925,CA-AB,ident,True,False,True,12
+CZSW,Prince Rupert/Seal Cove Seaplane Base,British Columbia,54.333302,-130.283005,CA-BC,icao_code,True,False,True,12
+CTG2,St-Hubert Helicraft / Metropolitan Airport Heliport,Quebec,45.532093,-73.411488,CA-QC,ident,True,False,True,12
+CYZD,Downsview Airport,Ontario,43.742522,-79.465399,CA-ON,ident,True,False,True,12
+CYAG,Fort Frances Municipal Airport,Ontario,48.655749,-93.44349,CA-ON,icao_code,True,False,True,12
+CZAM,Shuswap Regional Airport,British Columbia,50.682802,-119.228996,CA-BC,icao_code,True,False,True,12
+CBF7,Victoria Harbour (Camel Point) Heliport,British Columbia,48.418098,-123.388,CA-BC,ident,True,False,True,12
+CYET,Edson Airport,Alberta,53.5788993835,-116.464996338,CA-AB,icao_code,True,False,True,12
+CER3,Drayton Valley Industrial Airport,Alberta,53.265800476074,-114.95999908447,CA-AB,ident,True,False,True,12
+CEG3,Lacombe Airport,Alberta,52.48830032348633,-113.71199798583984,CA-AB,ident,True,False,True,12
+CYYN,Swift Current Airport,Saskatchewan,50.2919006348,-107.691001892,CA-SK,icao_code,True,False,True,12
+CYPD,Port Hawkesbury Airport,Nova Scotia,45.6567001343,-61.3680992126,CA-NS,icao_code,True,False,True,11
+CND4,Stanhope Municipal Airport,Ontario,45.111255,-78.640047,CA-ON,ident,True,False,True,11
+CYPM,Pikangikum Airport,Ontario,51.819698,-93.973297,CA-ON,icao_code,True,False,True,11
+CZNL,Nelson Airport,British Columbia,49.494202,-117.301003,CA-BC,icao_code,True,False,True,11
+CYDM,Ross River Airport,Yukon,61.9706001282,-132.42300415,CA-YT,icao_code,True,False,True,11
+CYWM,Athabasca Airport,Alberta,54.74309921264648,-113.20500183105467,CA-AB,ident,True,False,True,11
+CYLH,Lansdowne House Airport,Ontario,52.195599,-87.934196,CA-ON,icao_code,True,False,True,11
+CYCN,Cochrane Airport,Ontario,49.10559844970703,-81.01360321044922,CA-ON,icao_code,True,False,True,11
+CYHH,Nemiscau Airport,Quebec,51.691101,-76.135597,CA-QC,icao_code,True,False,True,11
+CYVG,Vermilion Airport,Alberta,53.357714,-110.827388,CA-AB,icao_code,True,False,True,11
+CYKM,Kincardine Municipal Airport,Ontario,44.201401,-81.606697,CA-ON,icao_code,True,False,True,11
+CEB5,Fairview Airport,Alberta,56.081401825,-118.434997559,CA-AB,ident,True,False,True,11
+CYYL,Lynn Lake Airport,Manitoba,56.86389923095703,-101.07599639892578,CA-MB,icao_code,True,False,True,11
+CEL5,Valleyview Airport,Alberta,55.032941,-117.294545,CA-AB,ident,True,False,True,11
+CTP9,Donaldson Airport,Quebec,61.662201,-73.321404,CA-QC,ident,True,False,True,11
+CJR3,The Pas / Grace Lake Airport,Manitoba,53.8264007568,-101.205001831,CA-MB,ident,True,False,True,11
+CEJ4,Claresholm Industrial Airport,Alberta,50.00469970703125,-113.62999725341795,CA-AB,ident,True,False,True,11
+CPV7,,,,,,,False,False,False,10
+CYPS,Pemberton Regional Airport,British Columbia,50.302502,-122.737999,CA-BC,ident,True,False,True,10
+CAP3,Sechelt-Gibsons Airport,British Columbia,49.4606018066,-123.71900177,CA-BC,ident,True,False,True,10
+CZJN,Swan River Airport,Manitoba,52.120602,-101.236,CA-MB,icao_code,True,False,True,10
+CAJ3,Creston Valley Regional Airport - Art Sutcliffe Field,British Columbia,49.03689956665,-116.49800109863,CA-BC,ident,True,False,True,10
+CNJ4,Orillia-Rama Regional Airport,Ontario,44.677656,-79.310217,CA-ON,ident,True,False,True,10
+CJB3,Steinbach Airport,Manitoba,49.54940032958984,-96.6793975830078,CA-MB,ident,True,False,True,10
+CCQ3,Debert Airport,Nova Scotia,45.41859817504883,-63.46060180664063,CA-NS,ident,True,False,True,10
+CCT2,Cookstown Airport,Ontario,44.238649,-79.638178,CA-ON,ident,True,False,True,10
+CJW4,Pelican Narrows Airport,Saskatchewan,55.28689956665039,-102.75,CA-SK,ident,True,False,True,10
+CEP4,Ross International Airport,Alberta,48.9987048532,-111.975414276,CA-AB,ident,True,False,True,10
+CEN3,Three Hills Airport,Alberta,51.69670104980469,-113.20899963378906,CA-AB,ident,True,False,True,10
+CYSA,Stratford Municipal Airport,Ontario,43.415599823,-80.93440246579999,CA-ON,ident,True,False,True,10
+CCL3,Christina Lake Airport,Alberta,55.628385,-110.751114,CA-AB,ident,True,False,True,10
+CKW5,Stony Rapids Seaplane Base,Saskatchewan,59.259998,-105.831001,CA-SK,ident,True,False,True,10
+CYYU,Kapuskasing Airport,Ontario,49.411587,-82.469645,CA-ON,icao_code,True,False,True,10
+CYCK,Chatham Kent Airport,Ontario,42.3064002991,-82.0819015503,CA-ON,icao_code,True,False,True,10
+CYDC,Princeton Airport,British Columbia,49.468102,-120.511002,CA-BC,icao_code,True,False,True,10
+CYXZ,Wawa Airport,Ontario,47.96670150756836,-84.78669738769531,CA-ON,icao_code,True,False,True,10
+CAU3,Oliver Airport,British Columbia,49.173301696777344,-119.5510025024414,CA-BC,ident,True,False,True,10
+CMR2,,,,,,,False,False,False,10
+CSR3,Victoriaville Airport,Quebec,46.110604,-71.931906,CA-QC,ident,True,False,True,10
+CYVZ,Deer Lake Airport,Ontario,52.655613,-94.061208,CA-ON,icao_code,True,False,True,9
+CYVV,Wiarton Airport,Ontario,44.7458,-81.107201,CA-ON,icao_code,True,False,True,9
+CBW4,Bob Quinn Lake Airport,British Columbia,56.966702,-130.25,CA-BC,ident,True,False,True,9
+CBBC,Bella Bella (Campbell Island) Airport,British Columbia,52.185001,-128.156994,CA-BC,icao_code,True,False,True,9
+CYRS,Red Sucker Lake Airport,Manitoba,54.167198,-93.557198,CA-MB,icao_code,True,False,True,9
+CEK6,Killam-Sedgewick Airport,Alberta,52.795446,-111.76037,CA-AB,ident,True,False,True,9
+CYSZ,Sainte-Anne-des-Monts Aerodrome,Quebec,49.1203,-66.529198,CA-QC,ident,True,False,True,9
+CEL6,Two Hills Airport,Alberta,53.709759,-111.788162,CA-AB,ident,True,False,True,9
+CYHT,Haines Junction Airport,Yukon,60.7892,-137.546005,CA-YT,icao_code,True,False,True,9
+CYFJ,Mont-Tremblant International Airport,Quebec,46.409401,-74.779999,CA-QC,icao_code,True,False,True,9
+CYCL,Charlo Airport,New Brunswick,47.990799,-66.330299,CA-NB,icao_code,True,False,True,9
+CJV5,Neepawa Airport,Manitoba,50.2327995300293,-99.5105972290039,CA-MB,ident,True,False,True,9
+CJA3,Morden Regional Airport,Manitoba,49.208626,-98.063536,CA-MB,ident,True,False,True,9
+CYMJ,Moose Jaw Air Vice Marshal C. M. McEwen Airport,Saskatchewan,50.330299377441406,-105.55899810791016,CA-SK,icao_code,True,False,True,9
+CFN7,Sundre Airport,Alberta,51.774200439453125,-114.677001953125,CA-AB,ident,True,False,True,9
+CSY3,Sorel Airport,Quebec,45.980301,-73.042198,CA-QC,ident,True,False,True,9
+CJZ3,Melfort Airport,Saskatchewan,52.86669921875,-104.6999969482422,CA-SK,ident,True,False,True,9
+CJZ9,La Ronge Seaplane Base,Saskatchewan,55.099998,-105.282997,CA-SK,ident,True,False,True,9
+CZTA,Bloodvein River Airport,Manitoba,51.784568,-96.692305,CA-MB,icao_code,True,False,True,9
+CYGE,Golden Airport,British Columbia,51.299196,-116.982002,CA-BC,ident,True,False,True,9
+CYBT,Brochet Airport,Manitoba,57.8894,-101.679001,CA-MB,icao_code,True,False,True,9
+CEV3,Vegreville Airport,Alberta,53.51440048217773,-112.0270004272461,CA-AB,ident,True,False,True,8
+CSY4,Saint-Donat Aerodrome,Quebec,46.30614,-74.181862,CA-QC,ident,True,False,True,8
+CET2,Conklin (Leismer) Airport,Alberta,55.695301,-111.278999,CA-AB,ident,True,False,True,8
+CBD6,Nahanni Butte Airport,Northwest Territories,61.02970123291016,-123.38899993896484,CA-NT,ident,True,False,True,8
+CEM4,Big Bend Airport,Alberta,52.078602,-114.027,CA-AB,ident,True,False,True,8
+CPT3,Rockton Airport,Ontario,43.32220077514648,-80.17639923095703,CA-ON,ident,True,False,True,8
+CYZY,Mackenzie Airport,British Columbia,55.297786,-123.133907,CA-BC,icao_code,True,False,True,8
+CYCH,Miramichi Airport,New Brunswick,47.007801,-65.449203,CA-NB,icao_code,True,False,True,8
+CYFH,Fort Hope Airport,Ontario,51.561901,-87.907799,CA-ON,icao_code,True,False,True,8
+CYHR,Chevery Airport,Quebec,50.468322,-59.637823,CA-QC,icao_code,True,False,True,8
+CYKJ,Key Lake Airport,Saskatchewan,57.25609970092773,-105.61799621582033,CA-SK,icao_code,True,False,True,8
+CYMW,Maniwaki Airport,Quebec,46.2728,-75.990601,CA-QC,icao_code,True,False,True,8
+CNC4,Guelph Airport,Ontario,43.56389999389648,-80.19609832763672,CA-ON,ident,True,False,True,8
+CNR4,Tobermory Airport,Ontario,45.2214680842,-81.62755966190001,CA-ON,ident,True,False,True,8
+CYSP,Marathon Airport,Ontario,48.75529861450195,-86.34439849853516,CA-ON,icao_code,True,False,True,8
+CZML,South Cariboo Region / 108 Mile Airport,British Columbia,51.7360992432,-121.333000183,CA-BC,icao_code,True,False,True,8
+CNZ8,Grimsby Regional Airport,Ontario,43.16,-79.599197,CA-ON,ident,True,False,True,8
+CYTA,Pembroke Airport,Ontario,45.86439895629883,-77.25170135498047,CA-ON,icao_code,True,False,True,8
+CER2,Castor Airport,Alberta,52.2209249248,-111.926887035,CA-AB,ident,True,False,True,7
+CEE5,Wabasca Airport,Alberta,55.961445,-113.81866,CA-AB,ident,True,False,True,7
+CAA8,Invermere Airport,British Columbia,50.521502,-116.005775,CA-BC,ident,True,False,True,7
+CZGI,Gods River Airport,Manitoba,54.839699,-94.078598,CA-MB,icao_code,True,False,True,7
+CYSL,Saint-Léonard Airport,New Brunswick,47.157097,-67.836242,CA-NB,icao_code,True,False,True,7
+CEP3,Barrhead Airport,Alberta,54.096874,-114.438868,CA-AB,ident,True,False,True,7
+CFR7,Red Deer Forestry Airport,Alberta,51.651402,-115.238998,CA-AB,ident,True,False,True,7
+CCS3,Saint Stephen Airport,New Brunswick,45.2075,-67.250603,CA-NB,ident,True,False,True,7
+CEN5,Cold Lake Regional Airport,Alberta,54.477500915527344,-110.2689971923828,CA-AB,ident,True,False,True,7
+CAJ8,Pitt Meadows Seaplane Base,British Columbia,49.209215,-122.709646,CA-BC,ident,True,False,True,7
+CST3,Montreal / St-Lazare Airport,Quebec,45.3903282887,-74.1340041161,CA-QC,ident,True,False,True,7
+CFN6,Primrose Airport,Alberta,55.390002,-111.1198,CA-AB,gps_code,True,False,True,7
+CYAC,Cat Lake Airport,Ontario,51.7272,-91.824402,CA-ON,icao_code,True,False,True,7
+CYBD,Bella Coola Airport,British Columbia,52.387501,-126.596001,CA-BC,icao_code,True,False,True,7
+CJN4,Assiniboia Airport,Saskatchewan,49.73469924926758,-105.9469985961914,CA-SK,ident,True,False,True,7
+CYLR,Leaf Rapids Airport,Manitoba,56.513301849365234,-99.98529815673828,CA-MB,icao_code,True,False,True,7
+CYCQ,Chetwynd Airport,British Columbia,55.687198638916016,-121.6269989013672,CA-BC,icao_code,True,False,True,7
+CKG4,Pickle Lake Seaplane Base,Ontario,51.466702,-90.199997,CA-ON,ident,True,False,True,7
+CYER,Fort Severn Airport,Ontario,56.018902,-87.676102,CA-ON,icao_code,True,False,True,7
+CZPC,Pincher Creek Airport,Alberta,49.520429,-113.997002,CA-AB,icao_code,True,False,True,7
+CAD5,Merritt Airport,British Columbia,50.122504,-120.745368,CA-BC,ident,True,False,True,7
+CZMD,Muskrat Dam Airport,Ontario,53.441399,-91.762802,CA-ON,icao_code,True,False,True,7
+CSD4,Mont Laurier Airport,Quebec,46.56439971923828,-75.57779693603516,CA-QC,ident,True,False,True,7
+CYPO,Peawanuck Airport,Ontario,54.987932,-85.442648,CA-ON,icao_code,True,False,True,7
+CYED,Edmonton (CFB Namao) Heliport,Alberta,53.667934,-113.472548,CA-AB,ident,True,False,True,7
+CZAC,York Landing Airport,Manitoba,56.089401,-96.089203,CA-MB,icao_code,True,False,True,7
+CZUM,Churchill Falls Airport,Newfoundland and Labrador,53.5619010925293,-64.10639953613281,CA-NL,icao_code,True,False,True,7
+CNQ3,Niagara Central Dorothy Rungeling Airport,Ontario,42.979198,-79.324699,CA-ON,ident,True,False,True,7
+CAL4,Fort MacKay/Albian Aerodrome,Alberta,57.2238998413,-111.418998718,CA-AB,ident,True,False,True,7
+CLM2,Leamington Airport,Ontario,42.025001525878906,-82.5250015258789,CA-ON,ident,True,False,True,6
+CKM8,Opapimiskan Lake Airport,Ontario,52.6067008972,-90.3768997192,CA-ON,ident,True,False,True,6
+CYCR,Cross Lake (Charlie Sinclair Memorial) Airport,Manitoba,54.609758,-97.762442,CA-MB,icao_code,True,False,True,6
+CAM3,Duncan Airport,British Columbia,48.754534,-123.709702,CA-BC,ident,True,False,True,6
+CJQ4,Maple Creek Airport,Saskatchewan,49.89580154418945,-109.4749984741211,CA-SK,ident,True,False,True,6
+CFY4,Winters Aire Park Airport,Alberta,50.9048190147,-113.796215057,CA-AB,ident,True,False,True,6
+CJD6,Sand Point Lake Seaplane Base,Ontario,48.333302,-92.449997,CA-ON,ident,True,False,True,6
+CYCX,CFB Gagetown Heliport,New Brunswick,45.837766,-66.436729,CA-NB,ident,True,False,True,6
+CJJ8,Macklin Airport,Saskatchewan,52.343616,-109.920215,CA-SK,ident,True,False,True,6
+CTA4,St Bruno-de-Guigues Airport,Quebec,47.4491996765,-79.41809844970001,CA-QC,ident,True,False,True,6
+CKQ6,Erickson Municipal Airport,Manitoba,50.4994010925293,-99.89779663085938,CA-MB,ident,True,False,True,6
+CSU2,Chisasibi Airport,Quebec,53.80559921264648,-78.91690063476562,CA-QC,ident,True,False,True,6
+CYWV,Wainwright Airport,Alberta,52.796404,-110.858445,CA-AB,ident,True,False,True,6
+CZWL,Wollaston Lake Airport,Saskatchewan,58.106899,-103.171997,CA-SK,icao_code,True,False,True,6
+CYWA,Petawawa Heliport,Ontario,45.952202,-77.319199,CA-ON,icao_code,True,False,True,6
+CEV5,Mayerthorpe Airport,Alberta,53.9375,-115.1790008544922,CA-AB,ident,True,False,True,6
+CEX4,Carmacks Airport,Yukon,62.11063,-136.179993,CA-YT,ident,True,False,True,6
+CZNG,Poplar River Airport,Manitoba,52.996526,-97.274194,CA-MB,icao_code,True,False,True,6
+CAD4,Trail Regional Airport,British Columbia,49.055599,-117.609001,CA-BC,ident,True,False,True,6
+CAZ5,Cache Creek-Ashcroft Regional Airport,British Columbia,50.775258,-121.321314,CA-BC,ident,True,False,True,6
+CYQI,Yarmouth Airport,Nova Scotia,43.82690048217773,-66.08809661865234,CA-NS,icao_code,True,False,True,6
+CSM3,Thetford Mines Airport,Quebec,46.051700592041016,-71.2572021484375,CA-QC,ident,True,False,True,6
+CJU4,Humboldt Airport,Saskatchewan,52.17610168457031,-105.1269989013672,CA-SK,ident,True,False,True,6
+CKS4,Red Lake Seaplane Base,Ontario,51.033298,-93.833298,CA-ON,ident,True,False,True,6
+CTK6,Kégashka Airport,Quebec,50.195801,-61.2658,CA-QC,ident,True,False,True,6
+CYAT,Attawapiskat Airport,Ontario,52.927502,-82.4319,CA-ON,icao_code,True,False,True,6
+CJE3,Weyburn Airport,Saskatchewan,49.6974983215332,-103.8010025024414,CA-SK,ident,True,False,True,6
+CDA4,Pokemouche Airport,New Brunswick,47.7164,-64.8825,CA-NB,ident,True,False,True,6
+CPL3,Kars / Rideau Valley Air Park,Ontario,45.1030620653,-75.6281661987,CA-ON,ident,True,False,True,5
+CHB3,,,,,,,False,False,False,5
+CHB2,Hudson Bay Helicopters Heliport,Manitoba,58.7664,-94.1677,CA-MB,ident,True,False,True,5
+CAW5,Port Hardy Seaplane Base,British Columbia,50.716702,-127.483002,CA-BC,ident,True,False,True,5
+CBF9,Mabel Lake Airport,British Columbia,50.6088981628418,-118.7310028076172,CA-BC,ident,True,False,True,5
+CPJ5,Stirling Airport,Ontario,44.2414016724,-77.5616989136,CA-ON,ident,True,False,True,5
+CEF3,Bow Island Airport,Alberta,49.88330078125,-111.33300018310548,CA-AB,ident,True,False,True,5
+CSL3,Lac-à-la-Tortue Airport,Quebec,46.621806,-72.632889,CA-QC,ident,True,False,True,5
+CNM5,Kingfisher Lake Airport,Ontario,53.01250076293945,-89.85530090332031,CA-ON,ident,True,False,True,5
+CRL4,Kirby Lake Airport,Alberta,55.355598,-110.637001,CA-AB,ident,True,False,True,5
+CAB3,Bedwell Harbour Seaplane Base,British Columbia,48.75,-123.233002,CA-BC,ident,True,False,True,5
+CYVD,Virden / RJ (Bob) Andrew Field Regional Aerodrome,Manitoba,49.8783,-100.917999,CA-MB,ident,True,False,True,5
+CYZH,Slave Lake Airport,Alberta,55.292945,-114.777276,CA-AB,icao_code,True,False,True,5
+CNR6,Carleton Place Airport,Ontario,45.10390090942383,-76.12329864501953,CA-ON,ident,True,False,True,5
+CZFD,Fond-du-Lac Airport,Saskatchewan,59.3344,-107.181999,CA-SK,icao_code,True,False,True,5
+CAB4,Tofino Harbour Seaplane Base,British Columbia,49.155,-125.91,CA-BC,ident,True,False,True,5
+CAM9,Vancouver International Seaplane Base,British Columbia,49.177047,-123.168154,CA-BC,ident,True,False,True,5
+CAF2,Cayuga East Airport,Ontario,42.960301,-79.788,CA-ON,ident,True,False,True,5
+CAX6,Ganges Seaplane Base,British Columbia,48.8545,-123.4969,CA-BC,ident,True,False,True,5
+CAP5,Victoria Airport Water Aerodrome,British Columbia,48.653892,-123.450451,CA-BC,ident,True,False,True,5
+CYCZ,Fairmont Hot Springs Airport,British Columbia,50.331052,-115.873739,CA-BC,icao_code,True,False,True,5
+CJX4,Rosetown Airport,Saskatchewan,51.564462,-107.916649,CA-SK,ident,True,False,True,5
+CKB6,Wapekeka Airport,Ontario,53.84920120239258,-89.57939910888672,CA-ON,ident,True,False,True,5
+CYHB,Hudson Bay Airport,Saskatchewan,52.8166999817,-102.310997009,CA-SK,icao_code,True,False,True,5
+CJF3,Île-à-la-Crosse Airport,Saskatchewan,55.48970031738281,-107.93000030517578,CA-SK,ident,True,False,True,5
+CJV9,Melville Municipal Airport,Saskatchewan,50.94139862060547,-102.73799896240234,CA-SK,ident,True,False,True,5
+CYBN,CFB Borden Heliport,Ontario,44.271702,-79.912498,CA-ON,ident,True,False,True,5
+CYAX,Lac du Bonnet Airport,Manitoba,50.294399,-96.010002,CA-MB,icao_code,True,False,True,5
+CYML,Charlevoix Airport,Quebec,47.59749984741211,-70.2238998413086,CA-QC,icao_code,True,False,True,5
+CSZ4,St-Frédéric Airport,Quebec,46.33140182495117,-70.96330261230469,CA-QC,ident,True,False,True,5
+CFP8,Whitehorse / Cousins Airport,Yukon,60.8117343999,-135.182132721,CA-YT,ident,True,False,True,5
+CYNL,Points North Landing Airport,Saskatchewan,58.27669906616211,-104.08200073242188,CA-SK,icao_code,True,False,True,5
+CYKY,Kindersley Airport,Saskatchewan,51.5175018311,-109.180999756,CA-SK,icao_code,True,False,True,5
+CFQ6,Pelly Crossing Airport,Yukon,62.837509,-136.528151,CA-YT,ident,True,False,True,5
+CYAQ,Kasabonika Airport,Ontario,53.52470016479492,-88.6427993774414,CA-ON,icao_code,True,False,True,5
+CYJT,Stephenville Dymond International Airport,Newfoundland and Labrador,48.54339,-58.552892,CA-NL,ident,True,False,True,5
+CDK2,Diavik Airport,Northwest Territories,64.5113983154,-110.289001465,CA-NT,ident,True,False,True,5
+CEF4,Airdrie Aerodrome,Alberta,51.263901,-113.933998,CA-AB,ident,True,False,True,5
+CYHE,Hope Airport / FVRD Regional Airpark,British Columbia,49.368865,-121.49495,CA-BC,icao_code,True,False,True,5
+CFN5,La Crete Airport,Alberta,58.1728751982,-116.337919235,CA-AB,ident,True,False,True,4
+CTG3,Du Rocher-Percé (Pabok) Airport,Quebec,48.38378,-64.562703,CA-QC,ident,True,False,True,4
+CYLT,Alert Airport,Nunavut,82.517263,-62.283037,CA-NU,icao_code,True,False,True,4
+CYNR,Fort Mackay / Horizon Airport,Alberta,57.381699,-111.700996,CA-AB,icao_code,True,False,True,4
+CJS4,Moose Jaw Municipal Airport,Saskatchewan,50.43466,-105.387744,CA-SK,ident,True,False,True,4
+CZBD,Ilford Airport,Manitoba,56.051622,-95.61882,CA-MB,icao_code,True,False,True,4
+CJV7,Summer Beaver Airport,Ontario,52.70859909057617,-88.54190063476562,CA-ON,ident,True,False,True,4
+CJL4,La Loche Airport,Saskatchewan,56.47330093383789,-109.40399932861328,CA-SK,ident,True,False,True,4
+CYEL,Elliot Lake Municipal Airport,Ontario,46.351398468,-82.5614013672,CA-ON,icao_code,True,False,True,4
+CJW5,Russell Airport,Manitoba,50.7658,-101.294998,CA-MB,ident,True,False,True,4
+CZRJ,Round Lake (Weagamow Lake) Airport,Ontario,52.9436,-91.312798,CA-ON,icao_code,True,False,True,4
+CYYW,Armstrong Airport,Ontario,50.29029846191406,-88.90969848632812,CA-ON,icao_code,True,False,True,4
+CBQ2,Fort Langley Airport,British Columbia,49.16749954223633,-122.55500030517578,CA-BC,ident,True,False,True,4
+CBG5,Nanaimo (Regional General Hospital) Heliport,British Columbia,49.185749,-123.971757,CA-BC,ident,True,False,True,4
+CBF6,Seal Cove (Public) Heliport,British Columbia,54.33000183105469,-130.2779998779297,CA-BC,ident,True,False,True,4
+CCH7,Capitale Hélicoptère Heliport,Quebec,46.8008,-71.3741,CA-QC,ident,True,False,True,4
+CYXR,Earlton (Timiskaming Regional) Airport,Ontario,47.6974006546,-79.8473453522,CA-ON,icao_code,True,False,True,4
+CPR5,Woodstock Airport,Ontario,43.108268,-80.821867,CA-ON,ident,True,False,True,4
+CEC4,Jasper-Hinton Airport,Alberta,53.319199,-117.752998,CA-AB,ident,True,False,True,4
+CFD4,Foremost Airport,Alberta,49.48310089111328,-111.49400329589844,CA-AB,ident,True,False,True,4
+CSF3,Poste Montagnais (Mile 134) Airport,Quebec,51.88859939575195,-65.71499633789062,CA-QC,ident,True,False,True,4
+CSM8,Sept-Îles/Lac des Rapides Water Aerodrome,Quebec,50.298901,-66.415604,CA-QC,ident,True,False,True,4
+CZKE,Kashechewan Airport,Ontario,52.282501,-81.677803,CA-ON,icao_code,True,False,True,4
+CAH4,Valemount Airport,British Columbia,52.852736,-119.336266,CA-BC,ident,True,False,True,4
+CZPB,Sachigo Lake Airport,Ontario,53.890885,-92.195935,CA-ON,icao_code,True,False,True,4
+CPR2,Ottawa/Embrun Aerodrome,Ontario,45.239703,-75.302423,CA-ON,ident,True,False,True,4
+CFV2,Beiseker Airport,Alberta,51.3932991027832,-113.47200012207033,CA-AB,ident,True,False,True,4
+CEZ4,Fort Vermilion Airport,Alberta,58.40420150756836,-115.95099639892578,CA-AB,ident,True,False,True,4
+CEZ5,Whitehorse Seaplane Base,Yukon,60.691101,-135.037003,CA-YT,ident,True,False,True,4
+CSH4,Lebel-sur-Quevillon Airport,Quebec,49.0303001404,-77.0171966553,CA-QC,ident,True,False,True,4
+CST7,St-Lambert-De-Lauzon Airport,Quebec,46.56029891967773,-71.18250274658203,CA-QC,ident,True,False,True,4
+CSH6,Montreal / Les Cèdres Heliport,Quebec,45.347165,-74.086985,CA-QC,ident,True,False,True,4
+CYOA,Ekati Airport,Northwest Territories,64.6988983154,-110.614997864,CA-NT,icao_code,True,False,True,4
+CYKX,Kirkland Lake Airport,Ontario,48.21030044555664,-79.98139953613281,CA-ON,icao_code,True,False,True,4
+CTU2,Fontanges Airport,Quebec,54.553901672363,-71.173301696777,CA-QC,ident,True,False,True,4
+CSP5,St-Mathias Airport,Quebec,45.50080108642578,-73.24169921875,CA-QC,ident,True,False,True,4
+CJD3,Birch Hills Airport,Saskatchewan,52.99079895019531,-105.44499969482422,CA-SK,ident,True,False,True,4
+CJL6,Altona Municipal Airport,Manitoba,49.093069,-97.52926,CA-MB,ident,True,False,True,4
+CJB7,Buffalo Narrows Seaplane Base,Saskatchewan,55.849998,-108.483002,CA-SK,ident,True,False,True,4
+CYLJ,Meadow Lake Airport,Saskatchewan,54.125301361083984,-108.52300262451172,CA-SK,icao_code,True,False,True,4
+CYJA,Jasper Airport,Alberta,52.996418,-118.060233,CA-AB,icao_code,True,False,True,4
+CYFA,Fort Albany Airport,Ontario,52.203451,-81.695194,CA-ON,icao_code,True,False,True,4
+CYES,Edmundston Airport,New Brunswick,47.487208,-68.477732,CA-NB,ident,True,False,True,4
+CSS4,St-Dominique Airport,Quebec,45.63249969482422,-72.81890106201172,CA-QC,ident,True,False,True,3
+CEY3,Fort Macleod Airport,Alberta,49.70000076293945,-113.41699981689452,CA-AB,ident,True,False,True,3
+CES7,Fort McMurray Seaplane Base,Alberta,56.733297,-111.366997,CA-AB,ident,True,False,True,3
+CPZ3,Trenton/Mountain View Airport,Ontario,44.069401,-77.338097,CA-ON,ident,True,False,True,3
+CEN2,Bassano Airport,Alberta,50.804107,-112.464065,CA-AB,ident,True,False,True,3
+CSK5,Paquet Airport,Quebec,46.89500045776367,-71.78579711914062,CA-QC,ident,True,False,True,3
+CYQN,Nakina Airport,Ontario,50.18280029296875,-86.69640350341797,CA-ON,icao_code,True,False,True,3
+CEW5,Milk River Airport,Alberta,49.13330078125,-112.0500030517578,CA-AB,ident,True,False,True,3
+CPT9,Pintendre Airport,Quebec,46.7584,-71.110202,CA-QC,ident,True,False,True,3
+CEH6,Provost Airport,Alberta,52.33810043334961,-110.27899932861328,CA-AB,ident,True,False,True,3
+CEU2,Beaverlodge Airport,Alberta,55.184200286865234,-119.447998046875,CA-AB,ident,True,False,True,3
+CEU8,Norman Wells Seaplane Base,Northwest Territories,65.25861,-126.691591,CA-NT,ident,True,False,True,3
+CRL2,Westport / Rideau Lakes Airport,Ontario,44.666665176600006,-76.3966673613,CA-ON,ident,True,False,True,3
+CSD3,Salaberry-de-Valleyfield Aerodrome,Quebec,45.208952,-74.140349,CA-QC,ident,True,False,True,3
+CEH2,Cu Nim Airport,Alberta,50.722868,-114.180716,CA-AB,ident,True,False,True,3
+CER4,Fort McMurray / Mildred Lake Airport,Alberta,57.0555992126,-111.573997498,CA-AB,ident,True,False,True,3
+CEE4,Hinton / Entrance Airport,Alberta,53.381401062,-117.700996399,CA-AB,ident,True,False,True,3
+CEC3,Fox Lake Airport,Alberta,58.47364,-114.54932,CA-AB,ident,True,False,True,3
+CPT2,Killarney Airport,Ontario,45.977500915527344,-81.49469757080078,CA-ON,ident,True,False,True,3
+CED5,Taber Airport,Alberta,49.826698303222656,-112.18499755859376,CA-AB,ident,True,False,True,3
+CDT9,Detour Lake Airport,Ontario,50.043953,-79.746178,CA-ON,ident,True,False,True,3
+CNE3,Bearskin Lake Airport,Ontario,53.965599060058594,-91.0271987915039,CA-ON,ident,True,False,True,3
+CEJ3,Stettler Airport,Alberta,52.310001373291016,-112.75399780273438,CA-AB,ident,True,False,True,3
+CZGF,Grand Forks Airport,British Columbia,49.015598,-118.431,CA-BC,icao_code,True,False,True,3
+CBB9,Osoyoos Airport,British Columbia,49.0372009277,-119.488998413,CA-BC,ident,True,False,True,3
+CAV3,One Hundred Mile House Airport,British Columbia,51.64250183105469,-121.30699920654295,CA-BC,ident,True,False,True,3
+CCP3,Chute-Saint-Philippe Airport,Quebec,46.660924,-75.243674,CA-QC,ident,True,False,True,3
+CYWP,Webequie Airport,Ontario,52.959393,-87.374868,CA-ON,icao_code,True,False,True,3
+CCN2,Grand Manan Airport,New Brunswick,44.71329879760742,-66.79640197753906,CA-NB,ident,True,False,True,3
+CBY5,Seal Cove (Coast Guard) Heliport,British Columbia,54.331459,-130.27684,CA-BC,ident,True,False,True,3
+CZMN,Pikwitonei Airport,Manitoba,55.58890151977539,-97.16419982910156,CA-MB,icao_code,True,False,True,3
+K48Y,,,,,,,False,False,False,3
+CFS5,Spirit River Municipal Airport,Alberta,55.783797,-118.840806,CA-AB,ident,True,False,True,3
+CFU3,Chipman Airport,Alberta,53.718754,-112.63586,CA-AB,ident,True,False,True,3
+CYHN,Hornepayne Municipal Airport,Ontario,49.19309997558594,-84.75890350341797,CA-ON,icao_code,True,False,True,3
+CLB2,Lubitz Field,Ontario,43.305948,-80.548514,CA-ON,ident,True,False,True,3
+CKZ7,Winkler Airport,Manitoba,49.166900634765625,-97.92030334472656,CA-MB,ident,True,False,True,3
+CYLD,Chapleau Airport,Ontario,47.81999969482422,-83.3467025756836,CA-ON,icao_code,True,False,True,3
+CTE3,Havre St-Pierre Seaplane Base,Quebec,50.263302,-63.550598,CA-QC,ident,True,False,True,3
+CTD3,Lac Sébastien Seaplane Base,Quebec,48.651699,-71.145798,CA-QC,ident,True,False,True,3
+CTB2,Thunder Bay (Health Science Centre) Heliport,Ontario,48.423099517822266,-89.26920318603516,CA-ON,ident,True,False,True,3
+CSW5,Montréal (Bell) Heliport,Quebec,45.685001373291016,-73.93109893798828,CA-QC,ident,True,False,True,3
+CYKP,Ogoki Post Airport,Ontario,51.6585998535,-85.9017028809,CA-ON,icao_code,True,False,True,3
+CYBE,Uranium City Airport,Saskatchewan,59.561401,-108.481003,CA-SK,icao_code,True,False,True,3
+CJA6,,,,,,,False,False,False,3
+CFQ5,Silver City Airport,Yukon,61.030402,-138.404903,CA-YT,ident,True,False,True,3
+CKB7,Roblin Airport,Manitoba,51.23440170288086,-101.39299774169922,CA-MB,ident,True,False,True,3
+CKE6,Thunder Bay Seaplane Base,Ontario,48.450001,-89.166702,CA-ON,ident,True,False,True,3
+CYBP,Brooks Regional Airport,Alberta,50.633598,-111.926003,CA-AB,ident,True,False,True,3
+CYGB,Texada Gillies Bay Airport,British Columbia,49.694341,-124.518099,CA-BC,icao_code,True,False,True,3
+CJL5,Winnipeg / Lyncrest Airport,Manitoba,49.852501,-96.973602,CA-MB,ident,True,False,True,3
+CYID,Digby / Annapolis Regional Airport,Nova Scotia,44.5458450365,-65.7854247093,CA-NS,icao_code,True,False,True,3
+CJT4,Cumberland House Airport,Saskatchewan,53.95610046386719,-102.2979965209961,CA-SK,ident,True,False,True,3
+CKQ3,North Spirit Lake Airport,Ontario,52.4900016784668,-92.97109985351562,CA-ON,ident,True,False,True,3
+CYHO,Hopedale Airport,Newfoundland and Labrador,55.448757,-60.228124,CA-NL,icao_code,True,False,True,3
+CKD9,Slate Falls Airport,Ontario,51.130001,-91.665604,CA-ON,ident,True,False,True,3
+CYDP,Nain Airport,Newfoundland and Labrador,56.550778,-61.682224,CA-NL,icao_code,True,False,True,3
+CKH9,Kelowna General Hospital Helipad,British Columbia,49.8743,-119.4924,CA-BC,ident,True,False,True,3
+CYFE,Forestville Airport,Quebec,48.74610137939453,-69.09719848632812,CA-QC,icao_code,True,False,True,3
+CZSN,South Indian Lake Airport,Manitoba,56.792801,-98.907204,CA-MB,icao_code,True,False,True,3
+CZST,Stewart Airport,British Columbia,55.935410448,-129.982434511,CA-BC,icao_code,True,False,True,3
+CAJ4,Anahim Lake Airport,British Columbia,52.451501,-125.303776,CA-BC,ident,True,False,True,3
+CNP8,Greenbank-Uxbridge-Port Perry Airfield,Ontario,44.133697,-79.013028,CA-ON,ident,True,False,True,2
+CNP7,Iroquois Airport,Ontario,44.84217834472656,-75.31140899658203,CA-ON,ident,True,False,True,2
+CNT7,,,,,,,False,False,False,2
+CBE9,Whistler (Municipal) Heliport,British Columbia,50.168377,-122.904754,CA-BC,ident,True,False,True,2
+CAV4,McBride Airport/Charlie Leake Field,British Columbia,53.314999,-120.170998,CA-BC,ident,True,False,True,2
+CBJ4,Echo Valley Airport,British Columbia,51.241707,-121.989785,CA-BC,ident,True,False,True,2
+CNW3,Bancroft Community Airport,Ontario,45.072652,-77.880678,CA-ON,ident,True,False,True,2
+CPE6,Sundridge/South River Airpark,Ontario,45.82212,-79.323664,CA-ON,ident,True,False,True,2
+CBE2,Lionel P. Demers Memorial Airpark,British Columbia,49.285798,-115.156923,CA-BC,ident,True,False,True,2
+CKL9,Regina Beach Airport,Saskatchewan,50.75279998779297,-104.97899627685548,CA-SK,ident,True,False,True,2
+CKL5,Shoal Lake Airport,Manitoba,50.457003,-100.609267,CA-MB,ident,True,False,True,2
+CKL3,Wunnumin Lake Airport,Ontario,52.893902,-89.2892,CA-ON,ident,True,False,True,2
+CKL2,Selkirk Airport,Manitoba,50.172308,-96.870346,CA-MB,ident,True,False,True,2
+CKG8,Kakabeka Falls Airport,Ontario,48.41830062866211,-89.60189819335938,CA-ON,ident,True,False,True,2
+CKF7,Sioux Lookout Heliport,Ontario,50.06669998168945,-91.9167022705078,CA-ON,ident,True,False,True,2
+CBC4,Kamloops (Royal Inland Hospital) Heliport,British Columbia,50.66903,-120.333002,CA-BC,ident,True,False,True,2
+CBS8,Alberni Valley Regional Airport,British Columbia,49.321899,-124.931,CA-BC,ident,True,False,True,2
+CBR2,Kaslo Airport,British Columbia,49.90359878540039,-116.93499755859376,CA-BC,ident,True,False,True,2
+CBN3,Buffalo Narrows (Fire Centre) Heliport,Saskatchewan,55.8342407027,-108.404202461,CA-SK,ident,True,False,True,2
+CBJ8,Fraser Lake Seaplane Base,British Columbia,54.0667,-124.883003,CA-BC,ident,True,False,True,2
+CNS4,Alexandria Aerodrome,Ontario,45.3307,-74.625725,CA-ON,ident,True,False,True,2
+CCD3,Woodstock Airport,New Brunswick,46.152079,-67.545098,CA-NB,ident,True,False,True,2
+CJQ3,Carlyle Airport,Saskatchewan,49.64440155029297,-102.28700256347656,CA-SK,ident,True,False,True,2
+CJP2,Kerrobert Airport,Saskatchewan,51.92689895629883,-109.12899780273438,CA-SK,ident,True,False,True,2
+CKB3,Kootenay Boundary Regional Hospital Heliport,British Columbia,49.103583,-117.700315,CA-BC,ident,True,False,True,2
+CKB2,Patuanak Airport,Saskatchewan,55.900001525878906,-107.72100067138672,CA-SK,ident,True,False,True,2
+CJX3,La Ronge Heliport,Saskatchewan,55.11470031738281,-105.29499816894533,CA-SK,ident,True,False,True,2
+CJV8,Grand Rapids Airport,Manitoba,53.17250061035156,-99.3230972290039,CA-MB,ident,True,False,True,2
+CBZ2,Kemano Heliport,British Columbia,53.562531,-127.94858,CA-BC,ident,True,False,True,2
+CYVL,Tommy Kochon Airport,Northwest Territories,67.02015,-126.128364,CA-NT,icao_code,True,False,True,2
+CYTN,Trenton Airport,Nova Scotia,45.611904,-62.621102,CA-NS,ident,True,False,True,2
+CPB9,Baldwin Airport,Ontario,44.2672004699707,-79.3405990600586,CA-ON,ident,True,False,True,2
+CPS2,Elmhirst's Resort Airport,Ontario,44.252085,-78.106699,CA-ON,ident,True,False,True,2
+CEQ4,Del Bonita / Whetstone International Airport,Alberta,48.9986000061,-112.776000977,CA-AB,ident,True,False,True,2
+CEP6,Warner Airport,Alberta,49.29332,-112.189965,CA-AB,ident,True,False,True,2
+CED3,Oyen Municipal Airport,Alberta,51.33420181274414,-110.49099731445312,CA-AB,ident,True,False,True,2
+CEA6,Cardston Airport,Alberta,49.163631,-113.241888,CA-AB,ident,True,False,True,2
+CEU9,Sambaa K'e Airport,Northwest Territories,60.42347,-121.269708,CA-NT,gps_code,True,False,True,2
+CEK2,Braeburn Airport,Yukon,61.48440170288086,-135.7760009765625,CA-YT,ident,True,False,True,2
+CEH5,Red Earth Creek Airport,Alberta,56.546142,-115.27575,CA-AB,ident,True,False,True,2
+CKZ3,Elk Island Airport,Manitoba,54.6713981628418,-94.14530181884766,CA-MB,ident,True,False,True,2
+CKV3,Dryden Best Western Heliport,Ontario,49.78329849243164,-92.8332977294922,CA-ON,ident,True,False,True,2
+CJS5,Killarney Municipal Airport,Manitoba,49.15169906616211,-99.69029998779295,CA-MB,ident,True,False,True,2
+CJR5,Gladstone Airport,Manitoba,50.16360092163086,-98.94249725341795,CA-MB,ident,True,False,True,2
+CEM5,Swan Hills Airport,Alberta,54.67079925537109,-115.41500091552734,CA-AB,ident,True,False,True,2
+CEL8,Eleonore Aerodrome,Quebec,52.718861,-76.079807,CA-QC,ident,True,False,True,2
+CEW7,Edmonton / University of Alberta (Stollery Children's Hospital Mahi) Heliport,Alberta,53.520437,-113.525309,CA-AB,ident,True,False,True,2
+CSG5,Saint-Jean-Chrysostome Airport,Quebec,46.685299,-71.151703,CA-QC,ident,True,False,True,2
+CSE3,Lourdes-de-Joliette Airport,Quebec,46.111146,-73.452959,CA-QC,ident,True,False,True,2
+CFF8,Bakers Narrows Seaplane Base,Manitoba,54.6786,-101.660004,CA-MB,ident,True,False,True,2
+CSN3,St-Jérôme Airport,Quebec,45.779799,-74.067088,CA-QC,ident,True,False,True,2
+CSJ4,Louiseville Airport,Quebec,46.245468,-72.90897,CA-QC,ident,True,False,True,2
+CSR8,La Sarre Airport,Quebec,48.917198181152,-79.178596496582,CA-QC,ident,True,False,True,2
+CSQ3,Valcourt Airport,Quebec,45.48109817504883,-72.310302734375,CA-QC,ident,True,False,True,2
+CYOY,C J.H.L.(Joe) Lecomte) Heliport,Quebec,46.902885,-71.503658,CA-QC,ident,True,False,True,2
+CYOP,Rainbow Lake Airport,Alberta,58.491402,-119.407997,CA-AB,icao_code,True,False,True,2
+CYAL,Alert Bay Airport,British Columbia,50.582199,-126.916,CA-BC,icao_code,True,False,True,2
+CWH7,Health Sciences Centre Helipad,Manitoba,49.904164,-97.156563,CA-MB,ident,True,False,True,2
+CWG2,Winnipeg (City of Winnipeg) Heliport,Manitoba,49.900473,-97.095553,CA-MB,ident,True,False,True,2
+CJM4,Gravelbourg Airport,Saskatchewan,49.866207122802734,-106.57107543945312,CA-SK,ident,True,False,True,2
+CJJ7,Churchill Seaplane Base,Manitoba,58.700004,-94.050004,CA-MB,ident,True,False,True,2
+CES2,St-Esprit Aerodrome,Quebec,45.9144,-73.672395,CA-QC,ident,True,False,True,2
+CTA9,Ottawa / Gatineau (Casino) Heliport,Quebec,45.4467020875,-75.72676420210001,CA-QC,ident,True,False,True,2
+CFM4,Donnelly Airport,Alberta,55.7094,-117.094002,CA-AB,ident,True,False,True,2
+CSY8,Natashquan (Lac De L'Avion) Seaplane Base,Quebec,50.189201,-61.753899,CA-QC,ident,True,False,True,2
+CFX4,Manning Municipal Airport,Alberta,56.950802,-117.643997,CA-AB,ident,True,False,True,2
+CNB5,Arnprior Seaplane Base,Ontario,45.407501,-76.359703,CA-ON,ident,True,False,True,2
+CMN5,Manic-Cinq Airport,Quebec,50.657732,-68.831019,CA-QC,ident,True,False,True,2
+CML2,Quamichan Lake (Raven Field) Airport,British Columbia,48.8119010925293,-123.6510009765625,CA-BC,ident,True,False,True,2
+CSP6,Montreal / Aéroparc Île Perrot,Quebec,45.3760986328,-73.9072036743,CA-QC,ident,True,False,True,2
+CJD8,Dryden Seaplane Base,Ontario,49.762876,-92.830315,CA-ON,ident,True,False,True,2
+CYLI,Lillooet Airport,British Columbia,50.674702,-121.893997,CA-BC,ident,True,False,True,2
+CFY5,Pine Lake,Yukon,60.10309982299805,-130.9340057373047,CA-YT,ident,True,False,True,2
+CYKC,Collins Bay Airport,Saskatchewan,58.2360992432,-103.678001404,CA-SK,icao_code,True,False,True,2
+CYJM,Fort St James Airport,British Columbia,54.39720153808594,-124.26300048828124,CA-BC,ident,True,False,True,2
+CJN5,Corman Air Park,Saskatchewan,52.000579,-106.462752,CA-SK,ident,True,False,True,2
+CAH7,Kamloops Water Aerodrome,British Columbia,50.698499,-120.431862,CA-BC,ident,True,False,True,2
+CAT5,Port McNeill Airport,British Columbia,50.57348,-127.027702,CA-BC,ident,True,False,True,2
+CAT3,Nanaimo/Long Lake Seaplane Base,British Columbia,49.209538,-124.008982,CA-BC,ident,True,False,True,2
+CAQ5,Nakusp Airport,British Columbia,50.26639938354492,-117.81300354003906,CA-BC,ident,True,False,True,2
+CKD8,Kirkfield / Balsam Lake Airfield,Ontario,44.539988,-78.88926,CA-ON,ident,True,False,True,2
+CKD2,Porcupine Plain Airport,Saskatchewan,52.61970138549805,-103.2480010986328,CA-SK,ident,True,False,True,2
+CYCT,Coronation Airport,Alberta,52.0750007629,-111.444999695,CA-AB,icao_code,True,False,True,2
+CKE8,Unity Airport,Saskatchewan,52.44580078125,-109.18499755859376,CA-SK,ident,True,False,True,2
+CAN3,Ucluelet Seaplane Base,British Columbia,48.950003,-125.550005,CA-BC,ident,True,False,True,2
+CNV6,Orillia/Lake St John Seaplane Base,Ontario,44.681743,-79.307761,CA-ON,ident,True,False,True,2
+CNV4,Hawkesbury Airport,Ontario,45.616699,-74.650002,CA-ON,ident,True,False,True,1
+CZPO,Pinehouse Lake Airport,Saskatchewan,55.5280990601,-106.582000732,CA-SK,icao_code,True,False,True,1
+CAB5,Abbotsford (Regional Hospital & Cancer Centre) Heliport,British Columbia,49.0361500085,-122.314048558,CA-BC,gps_code,True,False,True,1
+CAF4,Tsuniah Lake Lodge Airport,British Columbia,51.526371,-124.163961,CA-BC,ident,True,False,True,1
+CAG2,Regina / Aerogate Airport,Saskatchewan,50.597731,-104.601312,CA-SK,gps_code,True,False,True,1
+CAM5,Houston Airport,British Columbia,54.440299,-126.780023,CA-BC,ident,True,False,True,1
+CKC5,Selkirk Seaplane Base,Manitoba,50.166698,-96.866699,CA-MB,ident,True,False,True,1
+CKD3,Lynn Lake (Eldon Lake) Seaplane Base,Manitoba,56.8172,-101.018997,CA-MB,ident,True,False,True,1
+CKD5,Kipling Airport,Saskatchewan,50.09920120239258,-102.60700225830078,CA-SK,ident,True,False,True,1
+CLC3,Calgary (Peter Lougheed Centre) Heliport,Alberta,51.079527,-113.982634,CA-AB,ident,True,False,True,1
+CAT6,Campbell River (Campbell River & District General Hospital) Heliport,British Columbia,50.008556,-125.242845,CA-BC,ident,True,False,True,1
+CAT7,Lasqueti Island/False Bay Seaplane Base,British Columbia,49.5,-124.349998,CA-BC,ident,True,False,True,1
+CAU6,Gold River Seaplane Base,British Columbia,49.679217,-126.116203,CA-BC,ident,True,False,True,1
+CAX8,Smithers/Tyhee Lake Seaplane Base,British Columbia,54.716702,-127.050005,CA-BC,ident,True,False,True,1
+CAH9,Telegraph Creek Seaplane Base,British Columbia,57.9071,-131.18946,CA-BC,ident,True,False,True,1
+CAE3,Campbell River Seaplane Base,British Columbia,50.049999,-125.25,CA-BC,ident,True,False,True,1
+CAQ4,Springhouse Airpark,British Columbia,51.954881,-122.140045,CA-BC,ident,True,False,True,1
+CZJG,Jenpeg Airport,Manitoba,54.51890182495117,-98.0460968017578,CA-MB,icao_code,True,False,True,1
+CZLQ,Thicket Portage Airport,Manitoba,55.31890106201172,-97.70780181884766,CA-MB,icao_code,True,False,True,1
+CAA2,St. André-Avellin Aerodrome,Quebec,45.744319,-75.070267,CA-QC,ident,True,False,True,1
+CAG3,Chilko Lake (Tsylos Park Lodge) Airport,British Columbia,51.625797,-124.144478,CA-BC,ident,True,False,True,1
+CKE5,Sandy Lake Seaplane Base,Ontario,53.049999,-93.333298,CA-ON,ident,True,False,True,1
+CTV2,Lac-Des-Écorces Seaplane Base,Quebec,46.548599,-75.418602,CA-QC,ident,True,False,True,1
+CLC4,Loon Creek Airfield,Saskatchewan,50.8434,-104.323,CA-SK,ident,True,False,True,1
+CJN3,Ignace Heliport,Ontario,49.407558,-91.634453,CA-ON,ident,True,False,True,1
+CYJP,Fort Providence Airport,Northwest Territories,61.31940078735352,-117.6060028076172,CA-NT,ident,True,False,True,1
+CFX5,Clarence and Abel Swallow Airport,Quebec,52.730001,-72.221001,CA-QC,ident,True,False,True,1
+CGB2,Bishell's Airport,Alberta,51.582801818847656,-114.052001953125,CA-AB,ident,True,False,True,1
+CGK2,Gahcho Kue,Northwest Territories,63.435198,-109.144812,CA-NT,ident,True,False,True,1
+CGL5,Gun Lake Heliport,British Columbia,50.88970184326172,-122.84700012207033,CA-BC,ident,True,False,True,1
+CGN4,,,,,,,False,False,False,1
+CGS2,Goose Lake Aerodrome,Nunavut,65.552778,-106.433611,CA-NU,ident,True,False,True,1
+CHA2,Hydravion Aventure Water Aerodrome,Quebec,46.4778,-72.7761,CA-QC,ident,True,False,True,1
+CJA5,Nestor Falls Airport,Ontario,49.14030075073242,-93.91690063476562,CA-ON,ident,True,False,True,1
+CJB5,Moosomin Airport,Saskatchewan,50.16859817504883,-101.6439971923828,CA-SK,ident,True,False,True,1
+CJD5,Leader Airport,Saskatchewan,50.877883,-109.501977,CA-SK,ident,True,False,True,1
+CJE2,Dore Lake Airport,Saskatchewan,54.61669921875,-107.38300323486328,CA-SK,ident,True,False,True,1
+CJF6,Armstrong Seaplane Base,Ontario,50.25,-89.050003,CA-ON,ident,True,False,True,1
+CJF8,Biggar Airport,Saskatchewan,52.05110168457031,-107.98799896240234,CA-SK,ident,True,False,True,1
+CSN8,Québec/Lac St-Augustin Seaplane Base,Quebec,46.7514,-71.394203,CA-QC,ident,True,False,True,1
+CLH2,Stettler Health Centre Heliport,Alberta,52.323154,-112.725257,CA-AB,ident,True,False,True,1
+CLS6,,,,,,,False,False,False,1
+CMB2,Meadowbank Airport,Nunavut,65.0246615457,-96.0686588287,CA-NU,ident,True,False,True,1
+CMC3,Mayerthorpe (Healthcare Centre) Heliport,Alberta,53.948711409,-115.133017302,CA-AB,ident,True,False,True,1
+CME2,Omemee Airport,Ontario,44.2854,-78.6276,CA-ON,ident,True,False,True,1
+CMH4,Mirabel Hélico Heliport,Quebec,45.69555,-73.9525,CA-QC,ident,True,False,True,1
+CMT3,,,,,,,False,False,False,1
+CNA9,Tomvale Airport,Ontario,44.916528,-76.936655,CA-ON,ident,True,False,True,1
+CSZ6,St-Jérôme (Hydro-Québec) Heliport,Quebec,45.7707634958,-74.0269973874,CA-QC,ident,True,False,True,1
+CYMH,Mary's Harbour Airport,Newfoundland and Labrador,52.302837,-55.847433,CA-NL,icao_code,True,False,True,1
+CST6,Clova/Lac Duchamp Seaplane Base,Quebec,48.110001,-75.365799,CA-QC,ident,True,False,True,1
+CSX7,Sexsmith (Exeter) Airport,Ontario,43.376357,-81.507139,CA-ON,ident,True,False,True,1
+CSH8,Manicouagan/Lac Louise Seaplane Base,Quebec,50.657501,-68.8228,CA-QC,ident,True,False,True,1
+CHS6,,,,,,,False,False,False,1
+CYNH,Hudson's Hope Airport,British Columbia,56.035142,-121.978326,CA-BC,icao_code,True,False,True,1
+CYMG,Manitouwadge Airport,Ontario,49.08390045166016,-85.86060333251953,CA-ON,icao_code,True,False,True,1
+CTA5,Val-d'Or/Hydrobase Piché Dubuisson Seaplane Base,Quebec,48.085301,-77.888601,CA-QC,ident,True,False,True,1
+CTH6,La Tuque Seaplane Base,Quebec,47.461399,-72.781097,CA-QC,ident,True,False,True,1
+CTM2,Temagami/Mine Landing Seaplane Base,Ontario,46.9603,-80.023102,CA-ON,ident,True,False,True,1
+CTM4,Toronto (St. Michael's Hospital) Heliport,Ontario,43.654152915,-79.37847107650002,CA-ON,ident,True,False,True,1
+CTN7,,,,,,,False,False,False,1
+CTQ6,St-Anselme Airport,Quebec,46.621899,-70.955002,CA-QC,ident,True,False,True,1
+CTS6,Hespero / Safron Residence Heliport,Alberta,52.28016,-114.427972,CA-AB,ident,True,False,True,1
+CER6,Aklavik Seaplane Base,Northwest Territories,68.222504,-134.992007,CA-NT,ident,True,False,True,1
+CER9,Fort Nelson (Parker Lake) Seaplane Base,British Columbia,58.825217,-122.900345,CA-BC,ident,True,False,True,1
+CET4,Fort Simpson Island Airport,Northwest Territories,61.867265,-121.368524,CA-NT,ident,True,False,True,1
+CFQ7,Edmonton / Gartner Airport,Alberta,53.280966,-113.455868,CA-AB,ident,True,False,True,1
+CFR2,Bawlf (Blackwells) Airport,Alberta,52.900001525878906,-112.5500030517578,CA-AB,ident,True,False,True,1
+CFS8,Clearwater River Airport,Alberta,51.988098,-115.227997,CA-AB,ident,True,False,True,1
+CFT5,Hyland Airport,Yukon,61.52389907836914,-128.2689971923828,CA-YT,ident,True,False,True,1
+CFT8,Pelican Airport,Alberta,56.16080093383789,-113.4739990234375,CA-AB,ident,True,False,True,1
+CLA6,Lancaster Airpark,Ontario,45.20040130615234,-74.36100006103516,CA-ON,ident,True,False,True,1
+CLC2,Chapeskie Field Airport,Ontario,43.068198,-81.126158,CA-ON,ident,True,False,True,1
+CTY5,Rougemont Airport,Quebec,45.43830108642578,-73.03780364990234,CA-QC,ident,True,False,True,1
+CUT2,Utica Airfield,Ontario,44.066081,-79.020882,CA-ON,gps_code,True,False,True,1
+CVB2,Voisey's Bay Airport,Newfoundland and Labrador,56.344722,-62.088056,CA-NL,ident,True,False,True,1
+CJH8,Leask Airport,Saskatchewan,53.016700744628906,-106.75,CA-SK,ident,True,False,True,1
+CJM8,Fort Frances Seaplane Base,Ontario,48.6278,-93.357801,CA-ON,ident,True,False,True,1
+CVS3,Surrey Memorial Hospital Helipad,British Columbia,49.176015,-122.84372,CA-BC,ident,True,False,True,1
+CVV2,Valleyview Health Centre Heliport,Alberta,55.0675,-117.2718,CA-AB,gps_code,True,False,True,1
+CWF3,Warren Field,Ontario,42.936718,-81.479738,CA-ON,gps_code,True,False,True,1
+CYAW,CFB Shearwater Heliport,Nova Scotia,44.636782,-63.502107,CA-NS,icao_code,True,False,True,1
+CFA4,Carcross Airport,Yukon,60.173762,-134.697683,CA-YT,ident,True,False,True,1
+CHH2,Hamilton Harbour Seaplane Base,Ontario,43.2988,-79.8498,CA-ON,ident,True,False,True,1
+CSR6,Sonora Resort Heliport,British Columbia,50.3817339685,-125.157558918,CA-BC,ident,True,False,True,1
+CSK6,Snap Lake Airport,Northwest Territories,63.593601,-110.905998,CA-NT,ident,True,False,True,1
+CSK8,,,,,,,False,False,False,1
+CSL8,Sudbury / Laurentian (Hospital),Ontario,46.4666476682,-80.9964895248,CA-ON,ident,True,False,True,1
+CSL9,Baie-Comeau (Manic 1) Airport,Quebec,49.18439865112305,-68.36250305175781,CA-QC,ident,True,False,True,1
+CSM6,Blue Sea Lake Seaplane Base,Quebec,46.242,-76.047,CA-QC,ident,True,False,True,1
+CSN7,Farnham Airport,Quebec,45.28559875488281,-73.00779724121094,CA-QC,ident,True,False,True,1
+CRD3,Red Deer Regional Hospital Centre Heliport,Alberta,52.26190185546875,-113.81600189208984,CA-AB,ident,True,False,True,1
+CRF5,Saskatoon/Richter Field Airport,Saskatchewan,52.280342,-106.684242,CA-SK,ident,True,False,True,1
+CFF7,Wainwright / Camp Wainwright Field,Alberta,52.8279336823,-110.904278755,CA-AB,ident,True,False,True,1
+CFH4,Fox Harbour Airport,Nova Scotia,45.869999,-63.461102,CA-NS,ident,True,False,True,1
+CFK6,Olds (Netook) Airport,Alberta,51.84999847412109,-114.06700134277344,CA-AB,ident,True,False,True,1
+CYPP,Parent Airport,Quebec,47.931901,-74.608103,CA-QC,ident,True,False,True,1
+CYPZ,Burns Lake Airport,British Columbia,54.3764,-125.950996,CA-BC,icao_code,True,False,True,1
+CRQ2,Regina General Hospital Helipad,Saskatchewan,50.444008,-104.601327,CA-SK,ident,True,False,True,1
+CSA4,Boisvert & Fils Seaplane Base,Quebec,45.645599,-73.596901,CA-QC,ident,True,False,True,1
+CSB4,Chibougamau Heliport,Quebec,49.900002,-74.383302,CA-QC,ident,True,False,True,1
+CSD5,Fermont Heliport,Quebec,52.80609893798828,-67.10220336914062,CA-QC,ident,True,False,True,1
+CSH3,,,,,,,False,False,False,1
+CPU6,Tyendinaga Mohawk Airport,Ontario,44.1847,-77.107803,CA-ON,ident,True,False,True,1
+CPV2,Orangeville / Castlewood Field,Ontario,43.958599,-80.154999,CA-ON,ident,True,False,True,1
+CEW3,St. Paul Airport,Alberta,53.993695,-111.377993,CA-AB,ident,True,False,True,1
+CFA5,Grande Airport,Alberta,56.29999923706055,-112.23300170898438,CA-AB,ident,True,False,True,1
+CFB3,Hespero Airport,Alberta,52.29999923706055,-114.46399688720705,CA-AB,ident,True,False,True,1
+CSJ2,Kanawata Aeroparc Airport,Quebec,47.595315,-74.132991,CA-QC,ident,True,False,True,1
+CNF3,Pendleton Airport,Ontario,45.486099,-75.0961,CA-ON,ident,True,False,True,1
+CNG2,Aberdeen Hospital Heliport,Nova Scotia,45.57223,-62.644368,CA-NS,ident,True,False,True,1
+CNH2,Natuashish Airport,Newfoundland and Labrador,55.913898,-61.184399,CA-NL,ident,True,False,True,1
+CNN3,Shelburne / Fisher Field,Ontario,44.027734,-80.205922,CA-ON,ident,True,False,True,1
+CNN5,Cochrane Seaplane Base,Ontario,49.109699,-81.033302,CA-ON,ident,True,False,True,1
+CNN8,Gananoque Airport,Ontario,44.40190124511719,-76.24420166015625,CA-ON,ident,True,False,True,1
+CPL2,Bracebridge (South Muskoka Memorial Hospital) Heliport,Ontario,45.0487,-79.3151,CA-ON,ident,True,False,True,1
+CPL4,Grand Bend Airport,Ontario,43.28689956665039,-81.71420288085938,CA-ON,ident,True,False,True,1
+CYSD,Canadian Forces Base Suffield Heliport,Alberta,50.276359,-111.180189,CA-AB,icao_code,True,False,True,1
+CJQ6,Tanquary Fiord Airport,Nunavut,81.409422,-76.867901,CA-NU,ident,True,False,True,1
+CJR4,Eston Airport,Saskatchewan,51.14419937133789,-108.76300048828124,CA-SK,ident,True,False,True,1
+CJS9,Lac Du Bonnet (North) Seaplane Base,Manitoba,50.283298,-96.0,CA-MB,ident,True,False,True,1
+CYFT,Makkovik Airport,Newfoundland and Labrador,55.077335,-59.187942,CA-NL,icao_code,True,False,True,1
+CYG2,Yellow Gold Airport,Ontario,43.159989,-81.703091,CA-ON,ident,True,False,True,1
+CJU7,Edam Airport,Saskatchewan,53.185001373291016,-108.78900146484376,CA-SK,ident,True,False,True,1
+CKS8,Cree Lake (Crystal Lodge) Airport,Saskatchewan,57.464199,-106.748001,CA-SK,ident,True,False,True,1
+CKS9,Shepherd's Landing Airport,Ontario,44.116446,-81.695323,CA-ON,ident,True,False,True,1
+CKT7,Wakaw Airport,Saskatchewan,52.649052,-105.763063,CA-SK,ident,True,False,True,1
+CKU2,Treherne Airport,Manitoba,49.63109970092773,-98.66639709472656,CA-MB,ident,True,False,True,1
+CKU6,Grenfell Airport,Saskatchewan,50.4192008972168,-102.93499755859376,CA-SK,ident,True,False,True,1
+CKY2,Whitewood Airport,Saskatchewan,50.3347783814,-102.274475098,CA-SK,ident,True,False,True,1
+CEK7,Footner Lake Seaplane Base,Alberta,58.616694,-117.182999,CA-AB,ident,True,False,True,1
+CEL3,East Linton (Kerr Field),Ontario,44.661068,-80.944026,CA-ON,ident,True,False,True,1
+CEL4,Hanna Airport,Alberta,51.632158,-111.904651,CA-AB,ident,True,False,True,1
+CRML,Stoney Point (Le Cunff) Airport,Ontario,42.29560089111328,-82.53500366210938,CA-ON,ident,True,False,True,1
+CDH2,Drumheller (Health Centre) Heliport,Alberta,51.469111,-112.728186,CA-AB,ident,True,False,True,1
+CDH4,Cowichan District Hospital Heliport,British Columbia,48.7862,-123.7214,CA-BC,ident,True,False,True,1
+CDJ5,Strathmore (D.J. Murray) Airport,Alberta,51.133146,-113.55996,CA-AB,ident,True,False,True,1
+CYSW,Sparwood Elk Valley Airport,British Columbia,49.834273,-114.878653,CA-BC,ident,True,False,True,1
+CDY3,Fogo Aeroddrome,Newfoundland and Labrador,49.657501,-54.237499,CA-NL,ident,True,False,True,1
+CDY6,Dayspring Airpark,Nova Scotia,44.381901,-64.456703,CA-NS,ident,True,False,True,1
+CEA5,Hardisty Airport,Alberta,52.64690017700195,-111.38400268554688,CA-AB,ident,True,False,True,1
+CPV8,Keewaywin Airport,Ontario,52.9911,-92.836403,CA-ON,ident,True,False,True,1
+CPW2,London (Victoria Hospital) Heliport,Ontario,42.9590666613,-81.2255716324,CA-ON,ident,True,False,True,1
+CPX6,Port Perry (Community Memorial Hospital) Heliport,Ontario,44.104863829900005,-78.95409196620001,CA-ON,ident,True,False,True,1
+CNC5,Sudbury/Azilda Seaplane Base,Ontario,46.533298,-81.133301,CA-ON,ident,True,False,True,1
+CNE6,Geraldton/Hutchison Lake Seaplane Base,Ontario,49.784199,-86.938904,CA-ON,ident,True,False,True,1
+CPN3,Moose Factory Heliport,Ontario,51.2494010925293,-80.618896484375,CA-ON,ident,True,False,True,1
+CPP6,Grand River Executive Airport,Ontario,43.037581,-79.853497,CA-ON,ident,True,False,True,1
+CPR8,Pincher Creek (Hospital) Heliport,Alberta,49.49250030517578,-113.9469985961914,CA-AB,ident,True,False,True,1
+CPS1,Parry Sound Harbour Seaplane Base,Ontario,45.339199,-80.034698,CA-ON,ident,True,False,True,1
+CPS9,Parry Sound/Frying Pan Island-Sans Souci Seaplane Base,Ontario,45.173302,-80.137497,CA-ON,ident,True,False,True,1
+COR8,Orangeville/Rosehill Airfield,Ontario,43.901929,-80.023782,CA-ON,ident,True,False,True,1
+CPC3,Walter's Field,Ontario,43.840579,-80.442882,CA-ON,ident,True,False,True,1
+CCQ5,St. John's (Paddys Pond) Seaplane Base,Newfoundland and Labrador,47.468257,-52.889542,CA-NL,ident,True,False,True,1
+CCS5,Havelock Airport,New Brunswick,45.98640060424805,-65.3019027709961,CA-NB,ident,True,False,True,1
+CCW4,Stanley Airport,Nova Scotia,45.10060119628906,-63.92060089111328,CA-NS,ident,True,False,True,1
+CCX3,Brockway Airport,New Brunswick,45.56669998168945,-67.0999984741211,CA-NB,ident,True,False,True,1
+CCX5,Wabush Seaplane Base,Newfoundland and Labrador,52.9333,-66.900002,CA-NL,ident,True,False,True,1
+CCY3,Sussex Airport,New Brunswick,45.689999,-65.540001,CA-NB,ident,True,False,True,1
+CBQ8,Woodcock Airport,British Columbia,55.06669998168945,-128.23300170898438,CA-BC,ident,True,False,True,1
+CDS2,Disley Airport,Saskatchewan,50.637459,-105.036194,CA-SK,gps_code,True,False,True,1
+CDT7,Dutton Airport,Ontario,42.6592,-81.512602,CA-ON,ident,True,False,True,1
+CYWE,Wekweètì Airport,Northwest Territories,64.190804,-114.077002,CA-NT,icao_code,True,False,True,1
+CBW7,Victoria (General Hospital) Heliport,British Columbia,48.46796,-123.43241,CA-BC,ident,True,False,True,1
+CBZ7,Victoria Harbour (Shoal Point) Heliport,British Columbia,48.423208,-123.387526,CA-BC,ident,True,False,True,1
+CBZ9,Fraser Lake Airport,British Columbia,54.014454,-124.771354,CA-BC,ident,True,False,True,1
+CKQ4,Rainy River Seaplane Base,Ontario,48.716702,-94.566704,CA-ON,ident,True,False,True,1
+CKR9,,,,,,,False,False,False,1
+CJW3,Loon Lake Airport,Saskatchewan,54.0182991027832,-109.13500213623048,CA-SK,ident,True,False,True,1
+CJY3,Tisdale Airport,Saskatchewan,52.836700439453,-104.06700134277,CA-SK,ident,True,False,True,1
+CJZ4,Shellbrook Airport,Saskatchewan,53.22829818725586,-106.36299896240234,CA-SK,ident,True,False,True,1
+CJK3,Beauval Airport,Saskatchewan,55.11029815673828,-107.71600341796876,CA-SK,ident,True,False,True,1
+CJK8,Flin Flon/Channing Seaplane Base,Manitoba,54.746415,-101.828,CA-MB,ident,True,False,True,1
+CKA8,St. François Xavier Airport,Manitoba,49.92440032958984,-97.54889678955078,CA-MB,ident,True,False,True,1
+CJP6,Camsell Portage Airport,Saskatchewan,59.61000061035156,-109.26699829101562,CA-SK,ident,True,False,True,1
+CJP9,Charlot River Airport,Saskatchewan,59.60169982910156,-109.13700103759766,CA-SK,ident,True,False,True,1
+CCA2,New Germany Seaplane Base,Nova Scotia,44.552222,-64.736389,CA-NS,ident,True,False,True,1
+CCD2,Springdale Airport,Newfoundland and Labrador,49.479446,-56.177773,CA-NL,ident,True,False,True,1
+CEE6,Edmonton / Twin Island Airpark,Alberta,53.471087,-113.155665,CA-AB,ident,True,False,True,1
+CPL5,Paces Lake Water Aerodrome,Nova Scotia,44.82,-63.214,CA-NS,gps_code,True,False,True,1
+CPM3,Pourvoirie Mirage Aerodrome,Quebec,53.8025,-72.841389,CA-QC,ident,True,False,True,1
+CPM5,Volk Airport,Ontario,43.993803,-79.778445,CA-ON,ident,True,False,True,1
+CPG3,Fort Erie (Eurocopter Canada) Heliport,Ontario,42.921189708,-78.9561331272,CA-ON,ident,True,False,True,1
+CPG5,Hawkesbury (East) Airport,Ontario,45.582801818847656,-74.54889678955078,CA-ON,ident,True,False,True,1
+CPG7,Juergensen Field,Ontario,43.735047,-80.44781,CA-ON,ident,True,False,True,1
+CPH2,Rolph Airport,Ontario,46.11669921875,-77.5333023071289,CA-ON,ident,True,False,True,1
+CPH7,Markham Stouffville Heliport,Ontario,43.8851011299,-79.2305901647,CA-ON,ident,True,False,True,1
+CPJ4,Geraldton (District Hospital) Heliport,Ontario,49.72169876098633,-86.95719909667969,CA-ON,ident,True,False,True,1
+CPK3,Hamilton (General Hospital) Heliport,Ontario,43.26191223279999,-79.85472545030001,CA-ON,ident,True,False,True,1
+CCP4,Port Hope Simpson Airport,Newfoundland and Labrador,52.528099060058594,-56.28609848022461,CA-NL,ident,True,False,True,1
+CBK6,Quesnel Lake Airport,British Columbia,52.513952,-121.045938,CA-BC,ident,True,False,True,1
+CBK8,Victoria (Royal Jubilee Hospital) Heliport,British Columbia,48.4342939918,-123.325164914,CA-BC,ident,True,False,True,1
+CBL6,Radium Hot Springs Airport,British Columbia,50.627155,-116.094981,CA-BC,ident,True,False,True,1
+CBM6,Midway Airport,British Columbia,49.0099983215332,-118.79000091552734,CA-BC,ident,True,False,True,1
+CBP3,Fernie (Elk Valley Hospital) Heliport,British Columbia,49.512858,-115.056179,CA-BC,ident,True,False,True,1
+CBQ9,Quennell Lake Seaplane Base,British Columbia,49.077497,-123.831001,CA-BC,ident,True,False,True,1
+CBR8,Prince Rupert (Hospital) Heliport,British Columbia,54.305128,-130.330183,CA-BC,ident,True,False,True,1
+CBW2,Kitimat Airport,British Columbia,54.167758,-128.578663,CA-BC,ident,True,False,True,1
+CBW3,Fort Grahame Airport,British Columbia,56.52138778769999,-124.470291138,CA-BC,ident,True,False,True,1
+CAY5,Sargeant Private Airfield,Ontario,43.305173,-80.499759,CA-ON,ident,True,False,True,1
+CBB2,Stouffville Airport,Ontario,43.9931,-79.2674,CA-ON,gps_code,True,False,True,1
+CYEA,Empress Airport,Alberta,50.93330001831055,-110.01300048828124,CA-AB,ident,True,False,True,1
+CKQ5,Lucky Lake Airport,Saskatchewan,50.994095,-107.129846,CA-SK,ident,True,False,True,1
+CKQ9,Pine Dock Airport,Manitoba,51.619998931884766,-96.81079864501952,CA-MB,ident,True,False,True,1
+CAE7,Harrison Hot Springs Seaplane Base,British Columbia,49.3048530057,-121.785936356,CA-BC,ident,True,False,True,1
+CAJ7,A J Flying Ranch Airport,Alberta,50.453887,-113.747191,CA-AB,ident,True,False,True,1
+CKJ5,Silver Falls Seaplane Base,Manitoba,50.5,-96.099998,CA-MB,ident,True,False,True,1
+CKJ7,Starbuck Airport,Manitoba,49.706132,-97.677926,CA-MB,ident,True,False,True,1
+CKJ9,Lemberg Airport,Saskatchewan,50.70890045166016,-103.1969985961914,CA-SK,ident,True,False,True,1
+CKK3,Scobey Border Station Airport,Saskatchewan,49.000001,-105.399338,CA-SK,ident,True,False,True,1
+CKL6,Little Bear Lake Airport,Saskatchewan,54.291900634765625,-104.6709976196289,CA-SK,ident,True,False,True,1
+CCE6,Camden East Airstrip,Ontario,44.325629,-76.792502,CA-ON,ident,True,False,True,1
+CPD4,Brussels (Armstrong Field) Airport,Ontario,43.749079,-81.237341,CA-ON,ident,True,False,True,1
+CPE5,Port Colborne Airport,Ontario,42.877499,-79.352798,CA-ON,ident,True,False,True,1
+CPF6,Stoney Creek Airport,Ontario,43.1696925259,-79.7094154358,CA-ON,ident,True,False,True,1
+CPF9,Lake Rosseau/Arthurlie Bay Seaplane Base,Ontario,45.116699,-79.550003,CA-ON,ident,True,False,True,1
+CAK7,Vancouver (Children & Women's Health Centre) Heliport,British Columbia,49.2438419064,-123.127095848,CA-BC,ident,True,False,True,1
+CNW8,The Hospital for Sick Children Helistop,Ontario,43.656673,-79.387629,CA-ON,ident,True,False,True,1
+CNY4,Alliston Airport,Ontario,44.18330001831055,-79.83709716796875,CA-ON,ident,True,False,True,1
+CNY8,Toronto (Sunnybrook Medical Centre) Heliport,Ontario,43.7212999835,-79.37076509,CA-ON,ident,True,False,True,1
+CNZ4,Madawaska Valley Airpark,Ontario,45.504803,-77.645323,CA-ON,ident,True,False,True,1
+CAV9,Oak Hammock Air Park,Manitoba,50.142053,-97.061148,CA-MB,ident,True,False,True,1
+CAX5,Likely Airport,British Columbia,52.61297,-121.507748,CA-BC,ident,True,False,True,1
+CBF8,Muncho Lake/Mile 462 Seaplane Base,British Columbia,59.009,-125.775,CA-BC,ident,True,False,True,1
+CNS9,Smiths Falls (Community Hospital) Heliport,Ontario,44.9071754018,-76.0277831554,CA-ON,ident,True,False,True,1
+CNT2,Nobel/Sawdust Bay Seaplane Base,Ontario,45.401901,-80.125801,CA-ON,ident,True,False,True,1
+CZUC,Ignace Municipal Airport,Ontario,49.428204,-91.720418,CA-ON,icao_code,True,False,True,1
+CNU3,Peterborough (Civic Hospital) Heliport,Ontario,44.30059814453125,-78.3458023071289,CA-ON,ident,True,False,True,1
+CNU8,Toronto Markham Airport,Ontario,43.93526,-79.263491,CA-ON,ident,True,False,True,1
+CAA6,Smithers (Canadian) Heliport,British Columbia,54.772295,-127.141599,CA-BC,ident,True,False,True,1

@@ -1,9 +1,5 @@
 airport_code,source_timezone,expected_timezone,timezone_mismatch
-CYEG,America/New_York,America/Edmonton,True
-CYHZ,America/New_York,America/Halifax,True
 CYOW,America/New_York,America/Toronto,True
 CYUL,America/New_York,America/Toronto,True
-CYVR,America/New_York,America/Vancouver,True
-CYYC,America/New_York,America/Edmonton,True
 CYYZ,America/New_York,America/Toronto,True
 CYZF,America/Edmonton,America/Yellowknife,True

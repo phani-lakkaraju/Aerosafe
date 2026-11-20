@@ -1,0 +1,24 @@
+{
+    "stage": "09_airport_reference_integration",
+    "date_range": "2018-01-01 to 2025-12-31",
+    "cadors_occurrences": 148883,
+    "occurrences_after_join": 148883,
+    "required_airport_codes": 917,
+    "matched_airport_codes": 901,
+    "unmatched_airport_codes": 16,
+    "ambiguous_airport_codes": 0,
+    "airport_code_match_rate_pct": 98.26,
+    "records_with_airport_code": 118119,
+    "records_with_matched_airport": 117925,
+    "records_with_unmatched_airport": 194,
+    "records_without_airport_code": 30764,
+    "record_match_rate_pct": 99.84,
+    "weather_airports": 13,
+    "validation": {
+        "occurrence_count_unchanged": true,
+        "unique_cadors_ids": true,
+        "unique_airport_ids": true,
+        "weather_codes_preserved": true,
+        "status_counts_reconciled": true
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "valid_cadors_occurrences": 148883,
+    "unique_tsb_reports": 7514,
+    "link_status": {
+        "no_tsb_number": 142401,
+        "matched": 6055,
+        "tsb_number_unmatched": 427
+    },
+    "tagged_tsb_reports": 606,
+    "theme_tags": 644,
+    "preserved_all_cadors": true,
+    "unique_cadors_ids": true,
+    "note": "Keyword mentions are descriptive and do not establish causation."
+}

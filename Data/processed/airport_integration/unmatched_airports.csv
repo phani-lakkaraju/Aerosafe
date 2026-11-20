@@ -1,0 +1,17 @@
+airport_id,airport_name,province,latitude,longitude,iso_region,match_source,reference_matched,ambiguous_reference,has_coordinates,occurrence_count
+CYKZ,,,,,,,False,False,False,141
+CSS3,,,,,,,False,False,False,12
+CMR2,,,,,,,False,False,False,10
+CPV7,,,,,,,False,False,False,10
+CHB3,,,,,,,False,False,False,5
+K48Y,,,,,,,False,False,False,3
+CJA6,,,,,,,False,False,False,3
+CNT7,,,,,,,False,False,False,2
+CMT3,,,,,,,False,False,False,1
+CLS6,,,,,,,False,False,False,1
+CKR9,,,,,,,False,False,False,1
+CHS6,,,,,,,False,False,False,1
+CGN4,,,,,,,False,False,False,1
+CSH3,,,,,,,False,False,False,1
+CSK8,,,,,,,False,False,False,1
+CTN7,,,,,,,False,False,False,1
